@@ -14980,3 +14980,1536 @@
 1688608755: Client sonar closed its connection.
 1688609807: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1688611608: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688613409: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688614684: New connection from 37.134.206.92:10373 on port 1883.
+1688614684: New client connected from 37.134.206.92:10373 as HIDGameMobile1688614675110 (p2, c1, k60).
+1688614684: Client HIDGameMobile1688614675110 disconnected.
+1688614686: New connection from 37.134.206.92:10382 on port 1883.
+1688614686: New client connected from 37.134.206.92:10382 as HIDGameMobile1688614525639 (p2, c1, k60).
+1688614686: Client HIDGameMobile1688614525639 disconnected.
+1688614689: New connection from 37.134.206.92:10397 on port 1883.
+1688614689: New client connected from 37.134.206.92:10397 as HIDGameMobile1688614525639 (p2, c1, k60).
+1688614690: New connection from 37.134.206.92:10400 on port 1883.
+1688614691: New client connected from 37.134.206.92:10400 as HIDGameMobile1688614675110 (p2, c1, k60).
+1688614754: New connection from 37.134.206.92:55270 on port 1883.
+1688614754: New client connected from 37.134.206.92:55270 as HIDGameMobile1688614748359 (p2, c1, k60).
+1688614754: Client HIDGameMobile1688614748359 disconnected.
+1688614756: New connection from 37.134.206.92:55274 on port 1883.
+1688614757: New client connected from 37.134.206.92:55274 as HIDGameMobile1688614748359 (p2, c1, k60).
+1688614757: Client HIDGameMobile1688614525639 disconnected.
+1688614757: Client HIDGameMobile1688614748359 disconnected.
+1688614757: Client HIDGameMobile1688614675110 disconnected.
+1688614757: New connection from 37.134.206.92:10595 on port 1883.
+1688614758: New client connected from 37.134.206.92:10595 as HIDGameMobile1688614525639 (p2, c1, k60).
+1688614758: New connection from 37.134.206.92:55280 on port 1883.
+1688614758: New connection from 37.134.206.92:10597 on port 1883.
+1688614759: New client connected from 37.134.206.92:55280 as HIDGameMobile1688614748359 (p2, c1, k60).
+1688614759: New client connected from 37.134.206.92:10597 as HIDGameMobile1688614675110 (p2, c1, k60).
+1688614791: Client HIDGameMobile1688614675110 closed its connection.
+1688614825: Client HIDGameMobile1688614748359 closed its connection.
+1688615121: New connection from 37.134.206.92:11042 on port 1883.
+1688615121: New client connected from 37.134.206.92:11042 as HIDGameMobile1688615112496 (p2, c1, k60).
+1688615121: Client HIDGameMobile1688615112496 disconnected.
+1688615123: New connection from 37.134.206.92:11043 on port 1883.
+1688615123: New client connected from 37.134.206.92:11043 as HIDGameMobile1688615112496 (p2, c1, k60).
+1688615129: New connection from 37.134.206.92:55314 on port 1883.
+1688615129: New client connected from 37.134.206.92:55314 as HIDGameMobile1688615112608 (p2, c1, k60).
+1688615130: Client HIDGameMobile1688615112608 disconnected.
+1688615132: New connection from 37.134.206.92:55316 on port 1883.
+1688615133: New client connected from 37.134.206.92:55316 as HIDGameMobile1688615112608 (p2, c1, k60).
+1688615133: Client HIDGameMobile1688615112496 disconnected.
+1688615133: Client HIDGameMobile1688615112608 disconnected.
+1688615134: New connection from 37.134.206.92:11054 on port 1883.
+1688615134: New connection from 37.134.206.92:55318 on port 1883.
+1688615134: New client connected from 37.134.206.92:11054 as HIDGameMobile1688615112496 (p2, c1, k60).
+1688615134: New client connected from 37.134.206.92:55318 as HIDGameMobile1688615112608 (p2, c1, k60).
+1688615210: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688615219: Client HIDGameMobile1688615112608 closed its connection.
+1688615222: Client HIDGameMobile1688615112496 closed its connection.
+1688615225: New connection from 37.134.206.92:55320 on port 1883.
+1688615225: New client connected from 37.134.206.92:55320 as HIDGameMobile1688615220675 (p2, c1, k60).
+1688615225: Client HIDGameMobile1688615220675 disconnected.
+1688615227: New connection from 37.134.206.92:11124 on port 1883.
+1688615230: New connection from 37.134.206.92:55322 on port 1883.
+1688615230: New client connected from 37.134.206.92:55322 as HIDGameMobile1688615220675 (p2, c1, k60).
+1688615233: New client connected from 37.134.206.92:11124 as HIDGameMobile1688615218907 (p2, c1, k60).
+1688615233: Client HIDGameMobile1688615218907 disconnected.
+1688615235: New connection from 37.134.206.92:11128 on port 1883.
+1688615235: New client connected from 37.134.206.92:11128 as HIDGameMobile1688615218907 (p2, c1, k60).
+1688615235: Client HIDGameMobile1688615218907 disconnected.
+1688615236: Client HIDGameMobile1688615220675 disconnected.
+1688615236: New connection from 37.134.206.92:11130 on port 1883.
+1688615236: New client connected from 37.134.206.92:11130 as HIDGameMobile1688615218907 (p2, c1, k60).
+1688615237: New connection from 37.134.206.92:55330 on port 1883.
+1688615237: New client connected from 37.134.206.92:55330 as HIDGameMobile1688615220675 (p2, c1, k60).
+1688615348: Client HIDGameMobile1688615218907 closed its connection.
+1688615356: Client HIDGameMobile1688615220675 closed its connection.
+1688615358: New connection from 37.134.206.92:11218 on port 1883.
+1688615359: New client connected from 37.134.206.92:11218 as HIDGameMobile1688615344613 (p2, c1, k60).
+1688615359: Client HIDGameMobile1688615344613 disconnected.
+1688615361: New connection from 37.134.206.92:55340 on port 1883.
+1688615362: New client connected from 37.134.206.92:55340 as HIDGameMobile1688615356881 (p2, c1, k60).
+1688615362: Client HIDGameMobile1688615356881 disconnected.
+1688615362: New connection from 37.134.206.92:11221 on port 1883.
+1688615362: New client connected from 37.134.206.92:11221 as HIDGameMobile1688615344613 (p2, c1, k60).
+1688615363: New connection from 37.134.206.92:55342 on port 1883.
+1688615363: New client connected from 37.134.206.92:55342 as HIDGameMobile1688615356881 (p2, c1, k60).
+1688615363: Client HIDGameMobile1688615344613 disconnected.
+1688615363: Client HIDGameMobile1688615356881 disconnected.
+1688615364: New connection from 37.134.206.92:11222 on port 1883.
+1688615364: New connection from 37.134.206.92:55344 on port 1883.
+1688615364: New client connected from 37.134.206.92:11222 as HIDGameMobile1688615344613 (p2, c1, k60).
+1688615365: New client connected from 37.134.206.92:55344 as HIDGameMobile1688615356881 (p2, c1, k60).
+1688615782: New connection from 45.79.181.251:35924 on port 1883.
+1688615782: Client <unknown> disconnected due to protocol error.
+1688615896: Client HIDGameMobile1688615344613 closed its connection.
+1688615898: Client HIDGameMobile1688615356881 closed its connection.
+1688615904: New connection from 37.134.206.92:55360 on port 1883.
+1688615904: New client connected from 37.134.206.92:55360 as HIDGameMobile1688615898889 (p2, c1, k60).
+1688615905: Client HIDGameMobile1688615898889 disconnected.
+1688615907: New connection from 37.134.206.92:55362 on port 1883.
+1688615908: New client connected from 37.134.206.92:55362 as HIDGameMobile1688615898889 (p2, c1, k60).
+1688615909: New connection from 37.134.206.92:11959 on port 1883.
+1688615909: New client connected from 37.134.206.92:11959 as HIDGameMobile1688615891173 (p2, c1, k60).
+1688615910: Client HIDGameMobile1688615891173 disconnected.
+1688615922: New connection from 37.134.206.92:11968 on port 1883.
+1688615922: New client connected from 37.134.206.92:11968 as HIDGameMobile1688615891173 (p2, c1, k60).
+1688615922: Client HIDGameMobile1688615891173 disconnected.
+1688615923: Client HIDGameMobile1688615898889 disconnected.
+1688615923: New connection from 37.134.206.92:11970 on port 1883.
+1688615923: New client connected from 37.134.206.92:11970 as HIDGameMobile1688615891173 (p2, c1, k60).
+1688615924: New connection from 37.134.206.92:55364 on port 1883.
+1688615924: New client connected from 37.134.206.92:55364 as HIDGameMobile1688615898889 (p2, c1, k60).
+1688615925: Client HIDGameMobile1688614525639 closed its connection.
+1688616133: Client HIDGameMobile1688615891173 closed its connection.
+1688616138: New connection from 37.134.206.92:12121 on port 1883.
+1688616138: New client connected from 37.134.206.92:12121 as HIDGameMobile1688616128481 (p2, c1, k60).
+1688616138: Client HIDGameMobile1688616128481 disconnected.
+1688616140: Client HIDGameMobile1688615898889 closed its connection.
+1688616144: New connection from 37.134.206.92:55404 on port 1883.
+1688616144: New client connected from 37.134.206.92:55404 as HIDGameMobile1688616140874 (p2, c1, k60).
+1688616144: Client HIDGameMobile1688616140874 disconnected.
+1688616145: New connection from 37.134.206.92:12123 on port 1883.
+1688616145: New client connected from 37.134.206.92:12123 as HIDGameMobile1688616128481 (p2, c1, k60).
+1688616145: New connection from 37.134.206.92:55406 on port 1883.
+1688616145: New client connected from 37.134.206.92:55406 as HIDGameMobile1688616140874 (p2, c1, k60).
+1688616146: Client HIDGameMobile1688616128481 disconnected.
+1688616146: Client HIDGameMobile1688616140874 disconnected.
+1688616146: New connection from 37.134.206.92:12124 on port 1883.
+1688616147: New client connected from 37.134.206.92:12124 as HIDGameMobile1688616128481 (p2, c1, k60).
+1688616147: New connection from 37.134.206.92:55408 on port 1883.
+1688616147: New client connected from 37.134.206.92:55408 as HIDGameMobile1688616140874 (p2, c1, k60).
+1688616193: Client HIDGameMobile1688616128481 closed its connection.
+1688616196: Client HIDGameMobile1688616140874 closed its connection.
+1688616208: New connection from 37.134.206.92:12167 on port 1883.
+1688616208: New client connected from 37.134.206.92:12167 as HIDGameMobile1688616188062 (p2, c1, k60).
+1688616208: Client HIDGameMobile1688616188062 disconnected.
+1688616212: New connection from 37.134.206.92:55410 on port 1883.
+1688616212: New client connected from 37.134.206.92:55410 as HIDGameMobile1688616209049 (p2, c1, k60).
+1688616212: Client HIDGameMobile1688616209049 disconnected.
+1688616214: New connection from 37.134.206.92:55412 on port 1883.
+1688616214: New client connected from 37.134.206.92:55412 as HIDGameMobile1688616209049 (p2, c1, k60).
+1688616215: New connection from 37.134.206.92:12169 on port 1883.
+1688616215: New client connected from 37.134.206.92:12169 as HIDGameMobile1688616188062 (p2, c1, k60).
+1688616215: Client HIDGameMobile1688616188062 disconnected.
+1688616216: Client HIDGameMobile1688616209049 disconnected.
+1688616216: New connection from 37.134.206.92:12170 on port 1883.
+1688616216: New connection from 37.134.206.92:55414 on port 1883.
+1688616216: New client connected from 37.134.206.92:12170 as HIDGameMobile1688616188062 (p2, c1, k60).
+1688616217: New client connected from 37.134.206.92:55414 as HIDGameMobile1688616209049 (p2, c1, k60).
+1688616374: Client HIDGameMobile1688616209049 closed its connection.
+1688616378: Client HIDGameMobile1688616188062 closed its connection.
+1688616381: New connection from 37.134.206.92:55452 on port 1883.
+1688616381: New client connected from 37.134.206.92:55452 as HIDGameMobile1688616375168 (p2, c1, k60).
+1688616381: Client HIDGameMobile1688616375168 disconnected.
+1688616383: New connection from 37.134.206.92:12225 on port 1883.
+1688616383: New client connected from 37.134.206.92:12225 as HIDGameMobile1688616373035 (p2, c1, k60).
+1688616383: Client HIDGameMobile1688616373035 disconnected.
+1688616384: New connection from 37.134.206.92:12226 on port 1883.
+1688616385: New client connected from 37.134.206.92:12226 as HIDGameMobile1688616373035 (p2, c1, k60).
+1688616386: New connection from 37.134.206.92:55456 on port 1883.
+1688616387: New client connected from 37.134.206.92:55456 as HIDGameMobile1688616375168 (p2, c1, k60).
+1688616387: Client HIDGameMobile1688616373035 disconnected.
+1688616387: Client HIDGameMobile1688616375168 disconnected.
+1688616387: New connection from 37.134.206.92:12227 on port 1883.
+1688616388: New connection from 37.134.206.92:55458 on port 1883.
+1688616388: New client connected from 37.134.206.92:12227 as HIDGameMobile1688616373035 (p2, c1, k60).
+1688616388: New client connected from 37.134.206.92:55458 as HIDGameMobile1688616375168 (p2, c1, k60).
+1688616753: Client HIDGameMobile1688616373035 closed its connection.
+1688616760: Client HIDGameMobile1688616375168 closed its connection.
+1688616765: New connection from 37.134.206.92:55548 on port 1883.
+1688616765: New client connected from 37.134.206.92:55548 as HIDGameMobile1688616761582 (p2, c1, k60).
+1688616766: Client HIDGameMobile1688616761582 disconnected.
+1688616770: New connection from 37.134.206.92:4279 on port 1883.
+1688616770: New client connected from 37.134.206.92:4279 as HIDGameMobile1688616748813 (p2, c1, k60).
+1688616770: Client HIDGameMobile1688616748813 disconnected.
+1688616771: New connection from 37.134.206.92:55550 on port 1883.
+1688616771: New client connected from 37.134.206.92:55550 as HIDGameMobile1688616761582 (p2, c1, k60).
+1688616772: New connection from 37.134.206.92:4280 on port 1883.
+1688616772: New client connected from 37.134.206.92:4280 as HIDGameMobile1688616748813 (p2, c1, k60).
+1688616772: Client HIDGameMobile1688616748813 disconnected.
+1688616773: Client HIDGameMobile1688616761582 disconnected.
+1688616773: New connection from 37.134.206.92:4281 on port 1883.
+1688616773: New client connected from 37.134.206.92:4281 as HIDGameMobile1688616748813 (p2, c1, k60).
+1688616773: New connection from 37.134.206.92:55552 on port 1883.
+1688616774: New client connected from 37.134.206.92:55552 as HIDGameMobile1688616761582 (p2, c1, k60).
+1688617011: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688617032: Client HIDGameMobile1688616761582 closed its connection.
+1688617034: Client HIDGameMobile1688616748813 closed its connection.
+1688617039: New connection from 37.134.206.92:55598 on port 1883.
+1688617039: New client connected from 37.134.206.92:55598 as HIDGameMobile1688617032627 (p2, c1, k60).
+1688617039: Client HIDGameMobile1688617032627 disconnected.
+1688617041: New connection from 37.134.206.92:55600 on port 1883.
+1688617042: New client connected from 37.134.206.92:55600 as HIDGameMobile1688617032627 (p2, c1, k60).
+1688617044: New connection from 37.134.206.92:4384 on port 1883.
+1688617045: New client connected from 37.134.206.92:4384 as HIDGameMobile1688617029714 (p2, c1, k60).
+1688617045: Client HIDGameMobile1688617029714 disconnected.
+1688617046: New connection from 37.134.206.92:4385 on port 1883.
+1688617046: New client connected from 37.134.206.92:4385 as HIDGameMobile1688617029714 (p2, c1, k60).
+1688617046: Client HIDGameMobile1688617029714 disconnected.
+1688617047: Client HIDGameMobile1688617032627 disconnected.
+1688617047: New connection from 37.134.206.92:4387 on port 1883.
+1688617047: New client connected from 37.134.206.92:4387 as HIDGameMobile1688617029714 (p2, c1, k60).
+1688617047: New connection from 37.134.206.92:55602 on port 1883.
+1688617048: New client connected from 37.134.206.92:55602 as HIDGameMobile1688617032627 (p2, c1, k60).
+1688617126: Client HIDGameMobile1688617029714 closed its connection.
+1688617131: Client HIDGameMobile1688617032627 closed its connection.
+1688617135: New connection from 37.134.206.92:55624 on port 1883.
+1688617135: New client connected from 37.134.206.92:55624 as HIDGameMobile1688617132120 (p2, c1, k60).
+1688617135: Client HIDGameMobile1688617132120 disconnected.
+1688617137: New connection from 37.134.206.92:4425 on port 1883.
+1688617138: New client connected from 37.134.206.92:4425 as HIDGameMobile1688617122315 (p2, c1, k60).
+1688617138: Client HIDGameMobile1688617122315 disconnected.
+1688617139: New connection from 37.134.206.92:55626 on port 1883.
+1688617139: New client connected from 37.134.206.92:55626 as HIDGameMobile1688617132120 (p2, c1, k60).
+1688617140: New connection from 37.134.206.92:4426 on port 1883.
+1688617140: New client connected from 37.134.206.92:4426 as HIDGameMobile1688617122315 (p2, c1, k60).
+1688617140: Client HIDGameMobile1688617122315 disconnected.
+1688617140: Client HIDGameMobile1688617132120 disconnected.
+1688617141: New connection from 37.134.206.92:4427 on port 1883.
+1688617141: New client connected from 37.134.206.92:4427 as HIDGameMobile1688617122315 (p2, c1, k60).
+1688617141: New connection from 37.134.206.92:55628 on port 1883.
+1688617141: New client connected from 37.134.206.92:55628 as HIDGameMobile1688617132120 (p2, c1, k60).
+1688617156: New connection from 87.236.176.81:39449 on port 1883.
+1688617159: New client connected from 87.236.176.81:39449 as nmap (p2, c1, k30).
+1688617161: Client nmap closed its connection.
+1688617173: New connection from 87.236.176.96:44285 on port 1883.
+1688617176: Client <unknown> disconnected due to malformed packet.
+1688617188: New connection from 87.236.176.92:49807 on port 1883.
+1688617194: Client <unknown> disconnected: No error information.
+1688617198: Client HIDGameMobile1688617122315 closed its connection.
+1688617202: Client HIDGameMobile1688617132120 closed its connection.
+1688617206: New connection from 37.134.206.92:4464 on port 1883.
+1688617206: New connection from 87.236.176.87:60223 on port 1883.
+1688617206: New client connected from 37.134.206.92:4464 as HIDGameMobile1688617193468 (p2, c1, k60).
+1688617206: Client HIDGameMobile1688617193468 disconnected.
+1688617208: New connection from 37.134.206.92:4466 on port 1883.
+1688617209: New client connected from 37.134.206.92:4466 as HIDGameMobile1688617193468 (p2, c1, k60).
+1688617209: Client <unknown> disconnected due to protocol error.
+1688617211: New connection from 37.134.206.92:55636 on port 1883.
+1688617211: New client connected from 37.134.206.92:55636 as HIDGameMobile1688617202718 (p2, c1, k60).
+1688617211: Client HIDGameMobile1688617202718 disconnected.
+1688617213: New connection from 37.134.206.92:55638 on port 1883.
+1688617213: New client connected from 37.134.206.92:55638 as HIDGameMobile1688617202718 (p2, c1, k60).
+1688617214: Client HIDGameMobile1688617193468 disconnected.
+1688617214: Client HIDGameMobile1688617202718 disconnected.
+1688617214: New connection from 37.134.206.92:4468 on port 1883.
+1688617214: New connection from 37.134.206.92:55642 on port 1883.
+1688617215: New client connected from 37.134.206.92:4468 as HIDGameMobile1688617193468 (p2, c1, k60).
+1688617215: New client connected from 37.134.206.92:55642 as HIDGameMobile1688617202718 (p2, c1, k60).
+1688617221: New connection from 87.236.176.96:46553 on port 1883.
+1688617224: Client <unknown> disconnected due to protocol error.
+1688617236: New connection from 87.236.176.102:43795 on port 1883.
+1688617239: Client <unknown> disconnected due to protocol error.
+1688617251: New connection from 87.236.176.105:34631 on port 1883.
+1688617254: Client <unknown> disconnected due to protocol error.
+1688617266: New connection from 87.236.176.84:56361 on port 1883.
+1688617269: Client <unknown> disconnected due to protocol error.
+1688617281: New connection from 87.236.176.94:39459 on port 1883.
+1688617287: Client <unknown> disconnected: No error information.
+1688617299: New connection from 87.236.176.95:37887 on port 1883.
+1688617302: Client <unknown> disconnected due to protocol error.
+1688617302: New connection from 87.236.176.95:56967 on port 1883.
+1688617302: Client <unknown> disconnected due to protocol error.
+1688617314: New connection from 87.236.176.107:36053 on port 1883.
+1688617314: Client HIDGameMobile1688617193468 closed its connection.
+1688617317: Client <unknown> disconnected due to protocol error.
+1688617319: Client HIDGameMobile1688617202718 closed its connection.
+1688617325: New connection from 37.134.206.92:55646 on port 1883.
+1688617325: New client connected from 37.134.206.92:55646 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617325: Client HIDGameMobile1688617320886 disconnected.
+1688617327: New connection from 37.134.206.92:4509 on port 1883.
+1688617327: New client connected from 37.134.206.92:4509 as HIDGameMobile1688617309828 (p2, c1, k60).
+1688617327: Client HIDGameMobile1688617309828 disconnected.
+1688617328: New connection from 37.134.206.92:55648 on port 1883.
+1688617328: New client connected from 37.134.206.92:55648 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617328: New connection from 37.134.206.92:4511 on port 1883.
+1688617329: New client connected from 37.134.206.92:4511 as HIDGameMobile1688617309828 (p2, c1, k60).
+1688617329: Client HIDGameMobile1688617309828 disconnected.
+1688617329: Client HIDGameMobile1688617320886 disconnected.
+1688617329: New connection from 37.134.206.92:4512 on port 1883.
+1688617330: New connection from 37.134.206.92:55650 on port 1883.
+1688617330: New client connected from 37.134.206.92:4512 as HIDGameMobile1688617309828 (p2, c1, k60).
+1688617330: New client connected from 37.134.206.92:55650 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617390: Client HIDGameMobile1688617320886 closed its connection.
+1688617488: New connection from 37.134.206.92:56110 on port 1883.
+1688617488: New client connected from 37.134.206.92:56110 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617489: New connection from 37.134.206.92:56112 on port 1883.
+1688617489: Client HIDGameMobile1688617320886 already connected, closing old connection.
+1688617489: New client connected from 37.134.206.92:56112 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617490: New connection from 37.134.206.92:56114 on port 1883.
+1688617490: Client HIDGameMobile1688617320886 already connected, closing old connection.
+1688617490: New client connected from 37.134.206.92:56114 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617491: New connection from 37.134.206.92:56116 on port 1883.
+1688617492: Client HIDGameMobile1688617320886 already connected, closing old connection.
+1688617492: New client connected from 37.134.206.92:56116 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617493: New connection from 37.134.206.92:56118 on port 1883.
+1688617493: Client HIDGameMobile1688617320886 already connected, closing old connection.
+1688617493: New client connected from 37.134.206.92:56118 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617494: New connection from 37.134.206.92:56120 on port 1883.
+1688617495: Client HIDGameMobile1688617320886 already connected, closing old connection.
+1688617495: New client connected from 37.134.206.92:56120 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617495: Client HIDGameMobile1688617309828 closed its connection.
+1688617496: New connection from 37.134.206.92:56122 on port 1883.
+1688617496: Client HIDGameMobile1688617320886 already connected, closing old connection.
+1688617496: New client connected from 37.134.206.92:56122 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617497: New connection from 37.134.206.92:56124 on port 1883.
+1688617497: Client HIDGameMobile1688617320886 already connected, closing old connection.
+1688617497: New client connected from 37.134.206.92:56124 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617498: New connection from 37.134.206.92:56126 on port 1883.
+1688617499: Client HIDGameMobile1688617320886 already connected, closing old connection.
+1688617499: New client connected from 37.134.206.92:56126 as HIDGameMobile1688617320886 (p2, c1, k60).
+1688617500: Client HIDGameMobile1688617320886 closed its connection.
+1688617509: New connection from 37.134.206.92:56128 on port 1883.
+1688617509: New client connected from 37.134.206.92:56128 as HIDGameMobile1688617502804 (p2, c1, k60).
+1688617509: Client HIDGameMobile1688617502804 disconnected.
+1688617511: New connection from 37.134.206.92:4568 on port 1883.
+1688617511: New client connected from 37.134.206.92:4568 as HIDGameMobile1688617490286 (p2, c1, k60).
+1688617512: Client HIDGameMobile1688617490286 disconnected.
+1688617513: New connection from 37.134.206.92:4569 on port 1883.
+1688617513: New client connected from 37.134.206.92:4569 as HIDGameMobile1688617490286 (p2, c1, k60).
+1688617514: New connection from 37.134.206.92:56130 on port 1883.
+1688617514: New client connected from 37.134.206.92:56130 as HIDGameMobile1688617502804 (p2, c1, k60).
+1688617515: Client HIDGameMobile1688617490286 disconnected.
+1688617515: Client HIDGameMobile1688617502804 disconnected.
+1688617515: New connection from 37.134.206.92:4571 on port 1883.
+1688617515: New connection from 37.134.206.92:56132 on port 1883.
+1688617516: New client connected from 37.134.206.92:4571 as HIDGameMobile1688617490286 (p2, c1, k60).
+1688617516: New client connected from 37.134.206.92:56132 as HIDGameMobile1688617502804 (p2, c1, k60).
+1688617654: Client HIDGameMobile1688617502804 closed its connection.
+1688617659: New connection from 37.134.206.92:56136 on port 1883.
+1688617659: New client connected from 37.134.206.92:56136 as HIDGameMobile1688617655296 (p2, c1, k60).
+1688617659: Client HIDGameMobile1688617655296 disconnected.
+1688617661: Client HIDGameMobile1688617490286 closed its connection.
+1688617665: New connection from 37.134.206.92:4625 on port 1883.
+1688617665: New client connected from 37.134.206.92:4625 as HIDGameMobile1688617656676 (p2, c1, k60).
+1688617665: Client HIDGameMobile1688617656676 disconnected.
+1688617666: New connection from 37.134.206.92:56140 on port 1883.
+1688617666: New client connected from 37.134.206.92:56140 as HIDGameMobile1688617655296 (p2, c1, k60).
+1688617667: New connection from 37.134.206.92:4626 on port 1883.
+1688617667: New client connected from 37.134.206.92:4626 as HIDGameMobile1688617656676 (p2, c1, k60).
+1688617668: Client HIDGameMobile1688617656676 disconnected.
+1688617668: Client HIDGameMobile1688617655296 disconnected.
+1688617668: New connection from 37.134.206.92:4627 on port 1883.
+1688617668: New client connected from 37.134.206.92:4627 as HIDGameMobile1688617656676 (p2, c1, k60).
+1688617669: New connection from 37.134.206.92:56142 on port 1883.
+1688617669: New client connected from 37.134.206.92:56142 as HIDGameMobile1688617655296 (p2, c1, k60).
+1688617688: Client HIDGameMobile1688617656676 closed its connection.
+1688617693: New connection from 37.134.206.92:4649 on port 1883.
+1688617693: New client connected from 37.134.206.92:4649 as HIDGameMobile1688617683968 (p2, c1, k60).
+1688617694: Client HIDGameMobile1688617683968 disconnected.
+1688617696: Client HIDGameMobile1688617655296 closed its connection.
+1688617700: New connection from 37.134.206.92:56146 on port 1883.
+1688617700: New client connected from 37.134.206.92:56146 as HIDGameMobile1688617696640 (p2, c1, k60).
+1688617700: Client HIDGameMobile1688617696640 disconnected.
+1688617702: New connection from 37.134.206.92:56148 on port 1883.
+1688617702: New client connected from 37.134.206.92:56148 as HIDGameMobile1688617696640 (p2, c1, k60).
+1688617703: New connection from 37.134.206.92:4653 on port 1883.
+1688617703: New client connected from 37.134.206.92:4653 as HIDGameMobile1688617683968 (p2, c1, k60).
+1688617703: Client HIDGameMobile1688617683968 disconnected.
+1688617703: Client HIDGameMobile1688617696640 disconnected.
+1688617704: New connection from 37.134.206.92:4654 on port 1883.
+1688617704: New client connected from 37.134.206.92:4654 as HIDGameMobile1688617683968 (p2, c1, k60).
+1688617704: New connection from 37.134.206.92:56150 on port 1883.
+1688617704: New client connected from 37.134.206.92:56150 as HIDGameMobile1688617696640 (p2, c1, k60).
+1688617771: Client HIDGameMobile1688617683968 closed its connection.
+1688617775: New connection from 37.134.206.92:4686 on port 1883.
+1688617775: New client connected from 37.134.206.92:4686 as HIDGameMobile1688617766456 (p2, c1, k60).
+1688617775: Client HIDGameMobile1688617766456 disconnected.
+1688617780: Client HIDGameMobile1688617696640 closed its connection.
+1688617785: New connection from 37.134.206.92:56160 on port 1883.
+1688617785: New client connected from 37.134.206.92:56160 as HIDGameMobile1688617780587 (p2, c1, k60).
+1688617785: Client HIDGameMobile1688617780587 disconnected.
+1688617786: New connection from 37.134.206.92:56162 on port 1883.
+1688617787: New client connected from 37.134.206.92:56162 as HIDGameMobile1688617780587 (p2, c1, k60).
+1688617788: New connection from 37.134.206.92:4690 on port 1883.
+1688617788: New client connected from 37.134.206.92:4690 as HIDGameMobile1688617766456 (p2, c1, k60).
+1688617788: Client HIDGameMobile1688617766456 disconnected.
+1688617789: Client HIDGameMobile1688617780587 disconnected.
+1688617789: New connection from 37.134.206.92:4691 on port 1883.
+1688617789: New client connected from 37.134.206.92:4691 as HIDGameMobile1688617766456 (p2, c1, k60).
+1688617789: New connection from 37.134.206.92:56164 on port 1883.
+1688617790: New client connected from 37.134.206.92:56164 as HIDGameMobile1688617780587 (p2, c1, k60).
+1688618404: Client HIDGameMobile1688617780587 closed its connection.
+1688618425: New connection from 37.134.206.92:56228 on port 1883.
+1688618426: New client connected from 37.134.206.92:56228 as HIDGameMobile1688617780587 (p2, c1, k60).
+1688618812: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688618924: Client HIDGameMobile1688617766456 closed its connection.
+1688618927: New connection from 37.134.206.92:56266 on port 1883.
+1688618927: Client HIDGameMobile1688617780587 already connected, closing old connection.
+1688618927: New client connected from 37.134.206.92:56266 as HIDGameMobile1688617780587 (p2, c1, k60).
+1688618928: New connection from 37.134.206.92:56274 on port 1883.
+1688618929: Client HIDGameMobile1688617780587 already connected, closing old connection.
+1688618929: New client connected from 37.134.206.92:56274 as HIDGameMobile1688617780587 (p2, c1, k60).
+1688618930: New connection from 37.134.206.92:56280 on port 1883.
+1688618930: Client HIDGameMobile1688617780587 already connected, closing old connection.
+1688618930: New client connected from 37.134.206.92:56280 as HIDGameMobile1688617780587 (p2, c1, k60).
+1688618931: New connection from 37.134.206.92:56282 on port 1883.
+1688618931: Client HIDGameMobile1688617780587 closed its connection.
+1688618931: Client <unknown> closed its connection.
+1688618939: New connection from 37.134.206.92:56312 on port 1883.
+1688618939: New client connected from 37.134.206.92:56312 as HIDGameMobile1688618935709 (p2, c1, k60).
+1688618940: Client HIDGameMobile1688618935709 disconnected.
+1688618942: New connection from 37.134.206.92:5031 on port 1883.
+1688618942: New client connected from 37.134.206.92:5031 as HIDGameMobile1688618919975 (p2, c1, k60).
+1688618942: Client HIDGameMobile1688618919975 disconnected.
+1688618943: New connection from 37.134.206.92:5039 on port 1883.
+1688618944: New client connected from 37.134.206.92:5039 as HIDGameMobile1688618919975 (p2, c1, k60).
+1688618945: New connection from 37.134.206.92:56314 on port 1883.
+1688618945: New client connected from 37.134.206.92:56314 as HIDGameMobile1688618935709 (p2, c1, k60).
+1688618945: Client HIDGameMobile1688618919975 disconnected.
+1688618945: Client HIDGameMobile1688618935709 disconnected.
+1688618946: New connection from 37.134.206.92:5041 on port 1883.
+1688618946: New connection from 37.134.206.92:56316 on port 1883.
+1688618946: New client connected from 37.134.206.92:5041 as HIDGameMobile1688618919975 (p2, c1, k60).
+1688618946: New client connected from 37.134.206.92:56316 as HIDGameMobile1688618935709 (p2, c1, k60).
+1688619518: Client HIDGameMobile1688618935709 closed its connection.
+1688619522: New connection from 37.134.206.92:56354 on port 1883.
+1688619522: New client connected from 37.134.206.92:56354 as HIDGameMobile1688619518733 (p2, c1, k60).
+1688619523: Client HIDGameMobile1688619518733 disconnected.
+1688619523: Client HIDGameMobile1688618919975 closed its connection.
+1688619526: New connection from 37.134.206.92:5200 on port 1883.
+1688619527: New client connected from 37.134.206.92:5200 as HIDGameMobile1688619518811 (p2, c1, k60).
+1688619527: Client HIDGameMobile1688619518811 disconnected.
+1688619528: New connection from 37.134.206.92:5201 on port 1883.
+1688619528: New client connected from 37.134.206.92:5201 as HIDGameMobile1688619518811 (p2, c1, k60).
+1688619531: New connection from 37.134.206.92:56360 on port 1883.
+1688619531: New client connected from 37.134.206.92:56360 as HIDGameMobile1688619518733 (p2, c1, k60).
+1688619531: Client HIDGameMobile1688619518811 disconnected.
+1688619531: Client HIDGameMobile1688619518733 disconnected.
+1688619532: New connection from 37.134.206.92:5203 on port 1883.
+1688619532: New connection from 37.134.206.92:56362 on port 1883.
+1688619532: New client connected from 37.134.206.92:5203 as HIDGameMobile1688619518811 (p2, c1, k60).
+1688619532: New client connected from 37.134.206.92:56362 as HIDGameMobile1688619518733 (p2, c1, k60).
+1688619683: Client HIDGameMobile1688619518811 closed its connection.
+1688619691: Client HIDGameMobile1688619518733 closed its connection.
+1688619694: New connection from 37.134.206.92:56366 on port 1883.
+1688619695: New client connected from 37.134.206.92:56366 as HIDGameMobile1688619691482 (p2, c1, k60).
+1688619695: Client HIDGameMobile1688619691482 disconnected.
+1688619696: New connection from 37.134.206.92:5258 on port 1883.
+1688619696: New client connected from 37.134.206.92:5258 as HIDGameMobile1688619678837 (p2, c1, k60).
+1688619696: Client HIDGameMobile1688619678837 disconnected.
+1688619697: New connection from 37.134.206.92:56368 on port 1883.
+1688619697: New client connected from 37.134.206.92:56368 as HIDGameMobile1688619691482 (p2, c1, k60).
+1688619697: New connection from 37.134.206.92:5259 on port 1883.
+1688619698: New client connected from 37.134.206.92:5259 as HIDGameMobile1688619678837 (p2, c1, k60).
+1688619698: Client HIDGameMobile1688619678837 disconnected.
+1688619698: Client HIDGameMobile1688619691482 disconnected.
+1688619699: New connection from 37.134.206.92:5260 on port 1883.
+1688619699: New connection from 37.134.206.92:56370 on port 1883.
+1688619699: New client connected from 37.134.206.92:5260 as HIDGameMobile1688619678837 (p2, c1, k60).
+1688619699: New client connected from 37.134.206.92:56370 as HIDGameMobile1688619691482 (p2, c1, k60).
+1688619828: Client HIDGameMobile1688619678837 closed its connection.
+1688619832: New connection from 37.134.206.92:5304 on port 1883.
+1688619833: New client connected from 37.134.206.92:5304 as HIDGameMobile1688619823658 (p2, c1, k60).
+1688619833: Client HIDGameMobile1688619823658 disconnected.
+1688619835: Client HIDGameMobile1688619691482 closed its connection.
+1688619838: New connection from 37.134.206.92:56390 on port 1883.
+1688619838: New client connected from 37.134.206.92:56390 as HIDGameMobile1688619835510 (p2, c1, k60).
+1688619839: New connection from 37.134.206.92:5306 on port 1883.
+1688619839: Client HIDGameMobile1688619835510 disconnected.
+1688619839: New client connected from 37.134.206.92:5306 as HIDGameMobile1688619823658 (p2, c1, k60).
+1688619840: New connection from 37.134.206.92:56392 on port 1883.
+1688619841: New client connected from 37.134.206.92:56392 as HIDGameMobile1688619835510 (p2, c1, k60).
+1688619841: Client HIDGameMobile1688619823658 disconnected.
+1688619841: Client HIDGameMobile1688619835510 disconnected.
+1688619841: New connection from 37.134.206.92:5308 on port 1883.
+1688619841: New connection from 37.134.206.92:56394 on port 1883.
+1688619842: New client connected from 37.134.206.92:5308 as HIDGameMobile1688619823658 (p2, c1, k60).
+1688619842: New client connected from 37.134.206.92:56394 as HIDGameMobile1688619835510 (p2, c1, k60).
+1688619861: Client HIDGameMobile1688619823658 closed its connection.
+1688620116: Client HIDGameMobile1688619835510 closed its connection.
+1688620122: New connection from 37.134.206.92:56410 on port 1883.
+1688620123: New client connected from 37.134.206.92:56410 as HIDGameMobile1688620117794 (p2, c1, k60).
+1688620123: Client HIDGameMobile1688620117794 disconnected.
+1688620125: New connection from 37.134.206.92:5614 on port 1883.
+1688620126: New client connected from 37.134.206.92:5614 as HIDGameMobile1688620115672 (p2, c1, k60).
+1688620126: Client HIDGameMobile1688620115672 disconnected.
+1688620127: New connection from 37.134.206.92:5615 on port 1883.
+1688620127: New client connected from 37.134.206.92:5615 as HIDGameMobile1688620115672 (p2, c1, k60).
+1688620128: New connection from 37.134.206.92:56414 on port 1883.
+1688620128: New client connected from 37.134.206.92:56414 as HIDGameMobile1688620117794 (p2, c1, k60).
+1688620128: Client HIDGameMobile1688620115672 disconnected.
+1688620128: Client HIDGameMobile1688620117794 disconnected.
+1688620129: New connection from 37.134.206.92:5616 on port 1883.
+1688620129: Client <unknown> closed its connection.
+1688620130: New connection from 37.134.206.92:56420 on port 1883.
+1688620130: New client connected from 37.134.206.92:56420 as HIDGameMobile1688620117794 (p2, c1, k60).
+1688620220: Client HIDGameMobile1688620117794 closed its connection.
+1688620226: New connection from 37.134.206.92:5668 on port 1883.
+1688620226: New client connected from 37.134.206.92:5668 as HIDGameMobile1688620215672 (p2, c1, k60).
+1688620226: Client HIDGameMobile1688620215672 disconnected.
+1688620229: New connection from 37.134.206.92:56432 on port 1883.
+1688620229: New client connected from 37.134.206.92:56432 as HIDGameMobile1688620221480 (p2, c1, k60).
+1688620229: Client HIDGameMobile1688620221480 disconnected.
+1688620231: New connection from 37.134.206.92:56434 on port 1883.
+1688620231: New client connected from 37.134.206.92:56434 as HIDGameMobile1688620221480 (p2, c1, k60).
+1688620231: New connection from 37.134.206.92:5670 on port 1883.
+1688620231: New client connected from 37.134.206.92:5670 as HIDGameMobile1688620215672 (p2, c1, k60).
+1688620232: Client HIDGameMobile1688620215672 disconnected.
+1688620232: Client HIDGameMobile1688620221480 disconnected.
+1688620232: New connection from 37.134.206.92:5671 on port 1883.
+1688620233: New client connected from 37.134.206.92:5671 as HIDGameMobile1688620215672 (p2, c1, k60).
+1688620233: New connection from 37.134.206.92:56436 on port 1883.
+1688620233: New client connected from 37.134.206.92:56436 as HIDGameMobile1688620221480 (p2, c1, k60).
+1688620556: Client HIDGameMobile1688620221480 closed its connection.
+1688620562: New connection from 37.134.206.92:56470 on port 1883.
+1688620562: New client connected from 37.134.206.92:56470 as HIDGameMobile1688620556989 (p2, c1, k60).
+1688620562: Client HIDGameMobile1688620556989 disconnected.
+1688620564: New connection from 37.134.206.92:56472 on port 1883.
+1688620564: New client connected from 37.134.206.92:56472 as HIDGameMobile1688620556989 (p2, c1, k60).
+1688620566: Client HIDGameMobile1688620215672 closed its connection.
+1688620569: New connection from 37.134.206.92:5797 on port 1883.
+1688620569: New client connected from 37.134.206.92:5797 as HIDGameMobile1688620563525 (p2, c1, k60).
+1688620569: Client HIDGameMobile1688620563525 disconnected.
+1688620572: New connection from 37.134.206.92:5799 on port 1883.
+1688620572: New client connected from 37.134.206.92:5799 as HIDGameMobile1688620563525 (p2, c1, k60).
+1688620572: Client HIDGameMobile1688620563525 disconnected.
+1688620572: Client HIDGameMobile1688620556989 disconnected.
+1688620573: New connection from 37.134.206.92:5800 on port 1883.
+1688620573: New connection from 37.134.206.92:56474 on port 1883.
+1688620573: New client connected from 37.134.206.92:5800 as HIDGameMobile1688620563525 (p2, c1, k60).
+1688620573: New client connected from 37.134.206.92:56474 as HIDGameMobile1688620556989 (p2, c1, k60).
+1688620613: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688620741: Client HIDGameMobile1688620563525 closed its connection.
+1688620745: Client HIDGameMobile1688620556989 closed its connection.
+1688620750: New connection from 37.134.206.92:56504 on port 1883.
+1688620750: New client connected from 37.134.206.92:56504 as HIDGameMobile1688620746954 (p2, c1, k60).
+1688620751: Client HIDGameMobile1688620746954 disconnected.
+1688620752: New connection from 37.134.206.92:5859 on port 1883.
+1688620753: New client connected from 37.134.206.92:5859 as HIDGameMobile1688620739131 (p2, c1, k60).
+1688620753: Client HIDGameMobile1688620739131 disconnected.
+1688620754: New connection from 37.134.206.92:56506 on port 1883.
+1688620754: New client connected from 37.134.206.92:56506 as HIDGameMobile1688620746954 (p2, c1, k60).
+1688620755: New connection from 37.134.206.92:5861 on port 1883.
+1688620755: New client connected from 37.134.206.92:5861 as HIDGameMobile1688620739131 (p2, c1, k60).
+1688620755: Client HIDGameMobile1688620739131 disconnected.
+1688620755: Client HIDGameMobile1688620746954 disconnected.
+1688620756: New connection from 37.134.206.92:5862 on port 1883.
+1688620756: New connection from 37.134.206.92:56508 on port 1883.
+1688620756: New client connected from 37.134.206.92:5862 as HIDGameMobile1688620739131 (p2, c1, k60).
+1688620756: New client connected from 37.134.206.92:56508 as HIDGameMobile1688620746954 (p2, c1, k60).
+1688620822: Client HIDGameMobile1688620739131 closed its connection.
+1688620825: Client HIDGameMobile1688620746954 closed its connection.
+1688620831: New connection from 37.134.206.92:56518 on port 1883.
+1688620831: New client connected from 37.134.206.92:56518 as HIDGameMobile1688620827760 (p2, c1, k60).
+1688620831: Client HIDGameMobile1688620827760 disconnected.
+1688620833: New connection from 37.134.206.92:5903 on port 1883.
+1688620833: New client connected from 37.134.206.92:5903 as HIDGameMobile1688620820633 (p2, c1, k60).
+1688620833: Client HIDGameMobile1688620820633 disconnected.
+1688620835: New connection from 37.134.206.92:5904 on port 1883.
+1688620835: New client connected from 37.134.206.92:5904 as HIDGameMobile1688620820633 (p2, c1, k60).
+1688620836: New connection from 37.134.206.92:56520 on port 1883.
+1688620836: New client connected from 37.134.206.92:56520 as HIDGameMobile1688620827760 (p2, c1, k60).
+1688620836: Client HIDGameMobile1688620820633 disconnected.
+1688620836: Client HIDGameMobile1688620827760 disconnected.
+1688620837: New connection from 37.134.206.92:5905 on port 1883.
+1688620837: New connection from 37.134.206.92:56522 on port 1883.
+1688620837: New client connected from 37.134.206.92:5905 as HIDGameMobile1688620820633 (p2, c1, k60).
+1688620837: New client connected from 37.134.206.92:56522 as HIDGameMobile1688620827760 (p2, c1, k60).
+1688620866: Client HIDGameMobile1688620827760 closed its connection.
+1688620867: Client HIDGameMobile1688620820633 closed its connection.
+1688621338: New connection from 37.134.206.92:60390 on port 1883.
+1688621338: New client connected from 37.134.206.92:60390 as mqtt-explorer-da9677da (p2, c1, k60).
+1688621548: Client mqtt-explorer-da9677da has exceeded timeout, disconnecting.
+1688622017: New connection from 37.134.206.92:56632 on port 1883.
+1688622017: New client connected from 37.134.206.92:56632 as HIDGameMobile1688622014047 (p2, c1, k60).
+1688622018: Client HIDGameMobile1688622014047 disconnected.
+1688622019: New connection from 37.134.206.92:56634 on port 1883.
+1688622019: New client connected from 37.134.206.92:56634 as HIDGameMobile1688622014047 (p2, c1, k60).
+1688622022: New connection from 37.134.206.92:6304 on port 1883.
+1688622022: New client connected from 37.134.206.92:6304 as HIDGameMobile1688622013043 (p2, c1, k60).
+1688622022: Client HIDGameMobile1688622013043 disconnected.
+1688622023: New connection from 37.134.206.92:6306 on port 1883.
+1688622024: New client connected from 37.134.206.92:6306 as HIDGameMobile1688622013043 (p2, c1, k60).
+1688622024: Client HIDGameMobile1688622013043 disconnected.
+1688622024: Client HIDGameMobile1688622014047 disconnected.
+1688622025: New connection from 37.134.206.92:6308 on port 1883.
+1688622025: New connection from 37.134.206.92:56636 on port 1883.
+1688622025: New client connected from 37.134.206.92:6308 as HIDGameMobile1688622013043 (p2, c1, k60).
+1688622025: New client connected from 37.134.206.92:56636 as HIDGameMobile1688622014047 (p2, c1, k60).
+1688622378: Client HIDGameMobile1688622014047 closed its connection.
+1688622414: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688622574: New connection from 37.134.206.92:56686 on port 1883.
+1688622575: New client connected from 37.134.206.92:56686 as HIDGameMobile1688622014047 (p2, c1, k60).
+1688622796: Client HIDGameMobile1688622013043 closed its connection.
+1688623016: Client HIDGameMobile1688622014047 closed its connection.
+1688624215: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688626016: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688627817: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688629618: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688631419: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688633220: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688635021: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688636096: New connection from 37.134.206.92:60521 on port 1883.
+1688636096: New client connected from 37.134.206.92:60521 as mqtt-explorer-da9677da (p2, c1, k60).
+1688636188: Client mqtt-explorer-da9677da has exceeded timeout, disconnecting.
+1688636822: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688638623: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688640424: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688642225: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688644026: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688645827: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688647628: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688649429: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688651230: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688653031: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688654832: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688656633: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688658434: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688659489: New connection from 184.105.247.194:12316 on port 1883.
+1688659489: New client connected from 184.105.247.194:12316 as MqttClient (p2, c1, k60).
+1688659489: Client MqttClient closed its connection.
+1688660235: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688662036: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688663837: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688664917: New connection from 37.134.206.92:60645 on port 1883.
+1688664917: New client connected from 37.134.206.92:60645 as mqtt-explorer-da9677da (p2, c1, k60).
+1688665012: Client mqtt-explorer-da9677da has exceeded timeout, disconnecting.
+1688665638: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688667439: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688669240: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688671041: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688672842: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688673109: New connection from 167.94.138.126:54836 on port 1883.
+1688673109: New client connected from 167.94.138.126:54836 as CENSYS (p2, c0, k10).
+1688673124: Client CENSYS closed its connection.
+1688674643: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688676444: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688678245: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688678473: New connection from 162.142.125.11:51096 on port 1883.
+1688678473: New client connected from 162.142.125.11:51096 as CENSYS (p2, c0, k10).
+1688678489: Client CENSYS closed its connection.
+1688680046: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688681847: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688683648: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688685449: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688687250: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688689051: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688690852: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688691464: New connection from 74.82.47.3:21234 on port 1883.
+1688691464: New client connected from 74.82.47.3:21234 as MqttClient (p2, c1, k60).
+1688691464: Client MqttClient closed its connection.
+1688692653: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688694454: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688696255: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688698056: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688699857: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688701658: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688701775: New connection from 185.165.190.34:43123 on port 1883.
+1688701775: New client connected from 185.165.190.34:43123 as paho/1DE3FE38E9F3F1D2AD (p1, c1, k60).
+1688701781: Client paho/1DE3FE38E9F3F1D2AD closed its connection.
+1688703459: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688705260: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688707061: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688708862: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688710663: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688712464: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688714265: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688716066: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688717867: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688719668: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688721469: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688723270: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688725071: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688726872: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688728673: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688730474: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688732275: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688734076: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688735877: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688737678: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688739479: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688741280: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688743081: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688744882: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688746138: New connection from 167.94.138.126:33882 on port 1883.
+1688746138: New client connected from 167.94.138.126:33882 as CENSYS (p2, c0, k10).
+1688746154: Client CENSYS closed its connection.
+1688746683: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688748114: New connection from 80.66.83.115:60006 on port 1883.
+1688748116: Client <unknown> disconnected due to protocol error.
+1688748484: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688750285: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688752086: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688753887: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688755688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688757489: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688759290: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688761091: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688762892: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688764693: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688766215: New connection from 37.134.206.92:53354 on port 1883.
+1688766216: New client connected from 37.134.206.92:53354 as HIDGameMobile1688766205590 (p2, c1, k60).
+1688766216: Client HIDGameMobile1688766205590 disconnected.
+1688766217: New connection from 37.134.206.92:53356 on port 1883.
+1688766217: New client connected from 37.134.206.92:53356 as HIDGameMobile1688766205590 (p2, c1, k60).
+1688766224: New connection from 37.134.206.92:13080 on port 1883.
+1688766224: New client connected from 37.134.206.92:13080 as HIDGameMobile1688766217158 (p2, c1, k60).
+1688766224: Client HIDGameMobile1688766217158 disconnected.
+1688766225: New connection from 37.134.206.92:13082 on port 1883.
+1688766226: New client connected from 37.134.206.92:13082 as HIDGameMobile1688766217158 (p2, c1, k60).
+1688766226: Client HIDGameMobile1688766217158 disconnected.
+1688766226: Client HIDGameMobile1688766205590 disconnected.
+1688766226: New connection from 37.134.206.92:13083 on port 1883.
+1688766227: New client connected from 37.134.206.92:13083 as HIDGameMobile1688766217158 (p2, c1, k60).
+1688766227: New connection from 37.134.206.92:53364 on port 1883.
+1688766227: New client connected from 37.134.206.92:53364 as HIDGameMobile1688766205590 (p2, c1, k60).
+1688766414: Client HIDGameMobile1688766217158 closed its connection.
+1688766416: Client HIDGameMobile1688766205590 closed its connection.
+1688766437: New connection from 37.134.206.92:53378 on port 1883.
+1688766438: New client connected from 37.134.206.92:53378 as HIDGameMobile1688766435269 (p2, c1, k60).
+1688766438: Client HIDGameMobile1688766435269 disconnected.
+1688766443: New connection from 37.134.206.92:13156 on port 1883.
+1688766444: New client connected from 37.134.206.92:13156 as HIDGameMobile1688766411294 (p2, c1, k60).
+1688766444: Client HIDGameMobile1688766411294 disconnected.
+1688766445: New connection from 37.134.206.92:13157 on port 1883.
+1688766445: New client connected from 37.134.206.92:13157 as HIDGameMobile1688766411294 (p2, c1, k60).
+1688766446: New connection from 37.134.206.92:53380 on port 1883.
+1688766446: New client connected from 37.134.206.92:53380 as HIDGameMobile1688766435269 (p2, c1, k60).
+1688766447: Client HIDGameMobile1688766411294 disconnected.
+1688766447: Client HIDGameMobile1688766435269 disconnected.
+1688766447: New connection from 37.134.206.92:13159 on port 1883.
+1688766447: Client <unknown> closed its connection.
+1688766448: New connection from 37.134.206.92:53382 on port 1883.
+1688766448: New client connected from 37.134.206.92:53382 as HIDGameMobile1688766435269 (p2, c1, k60).
+1688766456: Client HIDGameMobile1688766435269 closed its connection.
+1688766460: New connection from 37.134.206.92:53384 on port 1883.
+1688766461: New client connected from 37.134.206.92:53384 as HIDGameMobile1688766457273 (p2, c1, k60).
+1688766461: Client HIDGameMobile1688766457273 disconnected.
+1688766467: New connection from 37.134.206.92:13169 on port 1883.
+1688766468: New client connected from 37.134.206.92:13169 as HIDGameMobile1688766444668 (p2, c1, k60).
+1688766468: Client HIDGameMobile1688766444668 disconnected.
+1688766475: New connection from 37.134.206.92:53386 on port 1883.
+1688766475: New client connected from 37.134.206.92:53386 as HIDGameMobile1688766472027 (p2, c1, k60).
+1688766475: Client HIDGameMobile1688766472027 disconnected.
+1688766476: New connection from 37.134.206.92:53388 on port 1883.
+1688766477: New client connected from 37.134.206.92:53388 as HIDGameMobile1688766472027 (p2, c1, k60).
+1688766478: New connection from 37.134.206.92:13173 on port 1883.
+1688766478: New client connected from 37.134.206.92:13173 as HIDGameMobile1688766444668 (p2, c1, k60).
+1688766479: Client HIDGameMobile1688766444668 disconnected.
+1688766479: Client HIDGameMobile1688766472027 disconnected.
+1688766479: New connection from 37.134.206.92:13174 on port 1883.
+1688766480: New client connected from 37.134.206.92:13174 as HIDGameMobile1688766444668 (p2, c1, k60).
+1688766480: New connection from 37.134.206.92:53390 on port 1883.
+1688766480: New client connected from 37.134.206.92:53390 as HIDGameMobile1688766472027 (p2, c1, k60).
+1688766494: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688767094: Client HIDGameMobile1688766472027 closed its connection.
+1688767230: New connection from 37.134.206.92:53460 on port 1883.
+1688767230: New client connected from 37.134.206.92:53460 as HIDGameMobile1688766472027 (p2, c1, k60).
+1688767670: New connection from 37.134.206.92:53516 on port 1883.
+1688767671: Client HIDGameMobile1688766472027 already connected, closing old connection.
+1688767671: New client connected from 37.134.206.92:53516 as HIDGameMobile1688766472027 (p2, c1, k60).
+1688767672: New connection from 37.134.206.92:53524 on port 1883.
+1688767672: Client HIDGameMobile1688766472027 already connected, closing old connection.
+1688767672: New client connected from 37.134.206.92:53524 as HIDGameMobile1688766472027 (p2, c1, k60).
+1688767673: New connection from 37.134.206.92:53534 on port 1883.
+1688767674: Client HIDGameMobile1688766472027 already connected, closing old connection.
+1688767674: New client connected from 37.134.206.92:53534 as HIDGameMobile1688766472027 (p2, c1, k60).
+1688767674: Client HIDGameMobile1688766472027 closed its connection.
+1688767799: Client HIDGameMobile1688766444668 closed its connection.
+1688767811: New connection from 37.134.206.92:53628 on port 1883.
+1688767812: New client connected from 37.134.206.92:53628 as HIDGameMobile1688767803313 (p2, c1, k60).
+1688767812: Client HIDGameMobile1688767803313 disconnected.
+1688767814: New connection from 37.134.206.92:13553 on port 1883.
+1688767815: New client connected from 37.134.206.92:13553 as HIDGameMobile1688767797550 (p2, c1, k60).
+1688767815: Client HIDGameMobile1688767797550 disconnected.
+1688767816: New connection from 37.134.206.92:53630 on port 1883.
+1688767816: New client connected from 37.134.206.92:53630 as HIDGameMobile1688767803313 (p2, c1, k60).
+1688767817: New connection from 37.134.206.92:13557 on port 1883.
+1688767817: New client connected from 37.134.206.92:13557 as HIDGameMobile1688767797550 (p2, c1, k60).
+1688767817: Client HIDGameMobile1688767797550 disconnected.
+1688767818: Client HIDGameMobile1688767803313 disconnected.
+1688767818: New connection from 37.134.206.92:13559 on port 1883.
+1688767818: New client connected from 37.134.206.92:13559 as HIDGameMobile1688767797550 (p2, c1, k60).
+1688767818: New connection from 37.134.206.92:53632 on port 1883.
+1688767819: New client connected from 37.134.206.92:53632 as HIDGameMobile1688767803313 (p2, c1, k60).
+1688768187: Client HIDGameMobile1688767797550 closed its connection.
+1688768193: Client HIDGameMobile1688767803313 closed its connection.
+1688768203: New connection from 37.134.206.92:53662 on port 1883.
+1688768203: New client connected from 37.134.206.92:53662 as HIDGameMobile1688768199518 (p2, c1, k60).
+1688768203: Client HIDGameMobile1688768199518 disconnected.
+1688768204: New connection from 37.134.206.92:13700 on port 1883.
+1688768205: New client connected from 37.134.206.92:13700 as HIDGameMobile1688768184951 (p2, c1, k60).
+1688768205: Client HIDGameMobile1688768184951 disconnected.
+1688768206: New connection from 37.134.206.92:53664 on port 1883.
+1688768206: New client connected from 37.134.206.92:53664 as HIDGameMobile1688768199518 (p2, c1, k60).
+1688768207: New connection from 37.134.206.92:13701 on port 1883.
+1688768207: New client connected from 37.134.206.92:13701 as HIDGameMobile1688768184951 (p2, c1, k60).
+1688768207: Client HIDGameMobile1688768184951 disconnected.
+1688768208: New connection from 37.134.206.92:13702 on port 1883.
+1688768208: New client connected from 37.134.206.92:13702 as HIDGameMobile1688768184951 (p2, c1, k60).
+1688768209: Client HIDGameMobile1688768199518 disconnected.
+1688768210: New connection from 37.134.206.92:53666 on port 1883.
+1688768210: New client connected from 37.134.206.92:53666 as HIDGameMobile1688768199518 (p2, c1, k60).
+1688768295: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688768824: Client HIDGameMobile1688768199518 closed its connection.
+1688768879: New connection from 37.134.206.92:53726 on port 1883.
+1688768880: New client connected from 37.134.206.92:53726 as HIDGameMobile1688768199518 (p2, c1, k60).
+1688768880: New connection from 37.134.206.92:53730 on port 1883.
+1688768880: Client HIDGameMobile1688768199518 already connected, closing old connection.
+1688768880: New client connected from 37.134.206.92:53730 as HIDGameMobile1688768199518 (p2, c1, k60).
+1688768882: New connection from 37.134.206.92:53734 on port 1883.
+1688768882: Client HIDGameMobile1688768199518 already connected, closing old connection.
+1688768882: New client connected from 37.134.206.92:53734 as HIDGameMobile1688768199518 (p2, c1, k60).
+1688768883: New connection from 37.134.206.92:53736 on port 1883.
+1688768883: Client <unknown> closed its connection.
+1688768883: Client HIDGameMobile1688768199518 closed its connection.
+1688768887: New connection from 37.134.206.92:53738 on port 1883.
+1688768888: New client connected from 37.134.206.92:53738 as HIDGameMobile1688768884846 (p2, c1, k60).
+1688768888: Client HIDGameMobile1688768884846 disconnected.
+1688768890: New connection from 37.134.206.92:53740 on port 1883.
+1688768890: New client connected from 37.134.206.92:53740 as HIDGameMobile1688768884846 (p2, c1, k60).
+1688768891: Client HIDGameMobile1688768184951 closed its connection.
+1688768894: New connection from 37.134.206.92:13900 on port 1883.
+1688768895: New client connected from 37.134.206.92:13900 as HIDGameMobile1688768888750 (p2, c1, k60).
+1688768895: Client HIDGameMobile1688768888750 disconnected.
+1688768896: New connection from 37.134.206.92:13901 on port 1883.
+1688768896: New client connected from 37.134.206.92:13901 as HIDGameMobile1688768888750 (p2, c1, k60).
+1688768897: Client HIDGameMobile1688768888750 disconnected.
+1688768897: New connection from 37.134.206.92:13902 on port 1883.
+1688768897: New client connected from 37.134.206.92:13902 as HIDGameMobile1688768888750 (p2, c1, k60).
+1688768898: Client HIDGameMobile1688768884846 disconnected.
+1688768899: New connection from 37.134.206.92:53742 on port 1883.
+1688768899: New client connected from 37.134.206.92:53742 as HIDGameMobile1688768884846 (p2, c1, k60).
+1688769060: Client HIDGameMobile1688768888750 closed its connection.
+1688769062: Client HIDGameMobile1688768884846 closed its connection.
+1688769067: New connection from 37.134.206.92:53744 on port 1883.
+1688769067: New client connected from 37.134.206.92:53744 as HIDGameMobile1688769064049 (p2, c1, k60).
+1688769067: Client HIDGameMobile1688769064049 disconnected.
+1688769069: New connection from 37.134.206.92:53746 on port 1883.
+1688769069: New client connected from 37.134.206.92:53746 as HIDGameMobile1688769064049 (p2, c1, k60).
+1688769072: New connection from 37.134.206.92:13962 on port 1883.
+1688769072: New client connected from 37.134.206.92:13962 as HIDGameMobile1688769058064 (p2, c1, k60).
+1688769073: Client HIDGameMobile1688769058064 disconnected.
+1688769073: New connection from 37.134.206.92:13963 on port 1883.
+1688769074: New client connected from 37.134.206.92:13963 as HIDGameMobile1688769058064 (p2, c1, k60).
+1688769074: Client HIDGameMobile1688769058064 disconnected.
+1688769074: Client HIDGameMobile1688769064049 disconnected.
+1688769074: New connection from 37.134.206.92:13965 on port 1883.
+1688769075: New client connected from 37.134.206.92:13965 as HIDGameMobile1688769058064 (p2, c1, k60).
+1688769075: New connection from 37.134.206.92:53748 on port 1883.
+1688769075: New client connected from 37.134.206.92:53748 as HIDGameMobile1688769064049 (p2, c1, k60).
+1688769211: Client HIDGameMobile1688769058064 closed its connection.
+1688769214: Client HIDGameMobile1688769064049 closed its connection.
+1688769220: New connection from 37.134.206.92:53778 on port 1883.
+1688769221: New client connected from 37.134.206.92:53778 as HIDGameMobile1688769216211 (p2, c1, k60).
+1688769221: Client HIDGameMobile1688769216211 disconnected.
+1688769222: New connection from 37.134.206.92:14018 on port 1883.
+1688769222: New client connected from 37.134.206.92:14018 as HIDGameMobile1688769208234 (p2, c1, k60).
+1688769222: Client HIDGameMobile1688769208234 disconnected.
+1688769224: New connection from 37.134.206.92:53780 on port 1883.
+1688769224: New client connected from 37.134.206.92:53780 as HIDGameMobile1688769216211 (p2, c1, k60).
+1688769225: New connection from 37.134.206.92:14020 on port 1883.
+1688769225: New client connected from 37.134.206.92:14020 as HIDGameMobile1688769208234 (p2, c1, k60).
+1688769225: Client HIDGameMobile1688769208234 disconnected.
+1688769226: Client HIDGameMobile1688769216211 disconnected.
+1688769226: New connection from 37.134.206.92:14021 on port 1883.
+1688769226: New client connected from 37.134.206.92:14021 as HIDGameMobile1688769208234 (p2, c1, k60).
+1688769227: New connection from 37.134.206.92:53782 on port 1883.
+1688769227: New client connected from 37.134.206.92:53782 as HIDGameMobile1688769216211 (p2, c1, k60).
+1688769678: Client HIDGameMobile1688769208234 closed its connection.
+1688769679: Client HIDGameMobile1688769216211 closed its connection.
+1688769682: New connection from 37.134.206.92:14148 on port 1883.
+1688769682: New client connected from 37.134.206.92:14148 as HIDGameMobile1688769675286 (p2, c1, k60).
+1688769683: Client HIDGameMobile1688769675286 disconnected.
+1688769686: New connection from 37.134.206.92:53840 on port 1883.
+1688769686: New connection from 37.134.206.92:14149 on port 1883.
+1688769686: New client connected from 37.134.206.92:14149 as HIDGameMobile1688769675286 (p2, c1, k60).
+1688769686: New client connected from 37.134.206.92:53840 as HIDGameMobile1688769680680 (p2, c1, k60).
+1688769686: Client HIDGameMobile1688769675286 disconnected.
+1688769687: Client HIDGameMobile1688769680680 disconnected.
+1688769687: New connection from 37.134.206.92:14151 on port 1883.
+1688769687: New connection from 37.134.206.92:53842 on port 1883.
+1688769687: New client connected from 37.134.206.92:14151 as HIDGameMobile1688769675286 (p2, c1, k60).
+1688769688: New client connected from 37.134.206.92:53842 as HIDGameMobile1688769680680 (p2, c1, k60).
+1688769814: Client HIDGameMobile1688769675286 closed its connection.
+1688769818: Client HIDGameMobile1688769680680 closed its connection.
+1688769822: New connection from 37.134.206.92:53850 on port 1883.
+1688769823: New client connected from 37.134.206.92:53850 as HIDGameMobile1688769819868 (p2, c1, k60).
+1688769823: Client HIDGameMobile1688769819868 disconnected.
+1688769824: New connection from 37.134.206.92:53852 on port 1883.
+1688769824: New client connected from 37.134.206.92:53852 as HIDGameMobile1688769819868 (p2, c1, k60).
+1688769824: Client HIDGameMobile1688769819868 disconnected.
+1688769825: New connection from 37.134.206.92:53854 on port 1883.
+1688769825: New client connected from 37.134.206.92:53854 as HIDGameMobile1688769819868 (p2, c1, k60).
+1688769831: Client HIDGameMobile1688769819868 closed its connection.
+1688769834: New connection from 37.134.206.92:53856 on port 1883.
+1688769835: New client connected from 37.134.206.92:53856 as HIDGameMobile1688769832048 (p2, c1, k60).
+1688769835: Client HIDGameMobile1688769832048 disconnected.
+1688769836: New connection from 37.134.206.92:53858 on port 1883.
+1688769837: New client connected from 37.134.206.92:53858 as HIDGameMobile1688769832048 (p2, c1, k60).
+1688769840: New connection from 37.134.206.92:14213 on port 1883.
+1688769840: New client connected from 37.134.206.92:14213 as HIDGameMobile1688769811735 (p2, c1, k60).
+1688769841: Client HIDGameMobile1688769811735 disconnected.
+1688769842: New connection from 37.134.206.92:14215 on port 1883.
+1688769842: New client connected from 37.134.206.92:14215 as HIDGameMobile1688769811735 (p2, c1, k60).
+1688769843: Client HIDGameMobile1688769811735 disconnected.
+1688769843: New connection from 37.134.206.92:14217 on port 1883.
+1688769843: Client HIDGameMobile1688769832048 disconnected.
+1688769844: New client connected from 37.134.206.92:14217 as HIDGameMobile1688769811735 (p2, c1, k60).
+1688769844: New connection from 37.134.206.92:53860 on port 1883.
+1688769845: New client connected from 37.134.206.92:53860 as HIDGameMobile1688769832048 (p2, c1, k60).
+1688769968: Client HIDGameMobile1688769811735 closed its connection.
+1688769970: New connection from 37.134.206.92:14268 on port 1883.
+1688769970: New client connected from 37.134.206.92:14268 as HIDGameMobile1688769965331 (p2, c1, k60).
+1688769971: Client HIDGameMobile1688769965331 disconnected.
+1688769977: Client HIDGameMobile1688769832048 closed its connection.
+1688769980: New connection from 37.134.206.92:53866 on port 1883.
+1688769981: New client connected from 37.134.206.92:53866 as HIDGameMobile1688769978054 (p2, c1, k60).
+1688769981: Client HIDGameMobile1688769978054 disconnected.
+1688769983: New connection from 37.134.206.92:14287 on port 1883.
+1688769983: New client connected from 37.134.206.92:14287 as HIDGameMobile1688769971320 (p2, c1, k60).
+1688769983: Client HIDGameMobile1688769971320 disconnected.
+1688769985: New connection from 37.134.206.92:14289 on port 1883.
+1688769985: New client connected from 37.134.206.92:14289 as HIDGameMobile1688769971320 (p2, c1, k60).
+1688769985: New connection from 37.134.206.92:53868 on port 1883.
+1688769986: New client connected from 37.134.206.92:53868 as HIDGameMobile1688769978054 (p2, c1, k60).
+1688769986: Client HIDGameMobile1688769971320 disconnected.
+1688769986: Client HIDGameMobile1688769978054 disconnected.
+1688769986: New connection from 37.134.206.92:14290 on port 1883.
+1688769987: New client connected from 37.134.206.92:14290 as HIDGameMobile1688769971320 (p2, c1, k60).
+1688769987: New connection from 37.134.206.92:53870 on port 1883.
+1688769987: New client connected from 37.134.206.92:53870 as HIDGameMobile1688769978054 (p2, c1, k60).
+1688770063: Client HIDGameMobile1688769971320 closed its connection.
+1688770069: Client HIDGameMobile1688769978054 closed its connection.
+1688770073: New connection from 37.134.206.92:53876 on port 1883.
+1688770073: New client connected from 37.134.206.92:53876 as HIDGameMobile1688770070688 (p2, c1, k60).
+1688770073: Client HIDGameMobile1688770070688 disconnected.
+1688770076: New connection from 37.134.206.92:14334 on port 1883.
+1688770077: New client connected from 37.134.206.92:14334 as HIDGameMobile1688770060948 (p2, c1, k60).
+1688770077: Client HIDGameMobile1688770060948 disconnected.
+1688770079: New connection from 37.134.206.92:53878 on port 1883.
+1688770079: New client connected from 37.134.206.92:53878 as HIDGameMobile1688770070688 (p2, c1, k60).
+1688770079: New connection from 37.134.206.92:14337 on port 1883.
+1688770079: New client connected from 37.134.206.92:14337 as HIDGameMobile1688770060948 (p2, c1, k60).
+1688770080: Client HIDGameMobile1688770060948 disconnected.
+1688770080: Client HIDGameMobile1688770070688 disconnected.
+1688770080: New connection from 37.134.206.92:14339 on port 1883.
+1688770081: New client connected from 37.134.206.92:14339 as HIDGameMobile1688770060948 (p2, c1, k60).
+1688770081: New connection from 37.134.206.92:53884 on port 1883.
+1688770081: New client connected from 37.134.206.92:53884 as HIDGameMobile1688770070688 (p2, c1, k60).
+1688770096: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688770153: Client HIDGameMobile1688770070688 closed its connection.
+1688770157: Client HIDGameMobile1688770060948 closed its connection.
+1688770160: New connection from 37.134.206.92:14375 on port 1883.
+1688770160: New client connected from 37.134.206.92:14375 as HIDGameMobile1688770154692 (p2, c1, k60).
+1688770161: Client HIDGameMobile1688770154692 disconnected.
+1688770163: New connection from 37.134.206.92:53886 on port 1883.
+1688770163: New client connected from 37.134.206.92:53886 as HIDGameMobile1688770154429 (p2, c1, k60).
+1688770163: Client HIDGameMobile1688770154429 disconnected.
+1688770164: New connection from 37.134.206.92:53888 on port 1883.
+1688770165: New client connected from 37.134.206.92:53888 as HIDGameMobile1688770154429 (p2, c1, k60).
+1688770166: New connection from 37.134.206.92:14377 on port 1883.
+1688770166: New client connected from 37.134.206.92:14377 as HIDGameMobile1688770154692 (p2, c1, k60).
+1688770166: Client HIDGameMobile1688770154692 disconnected.
+1688770166: Client HIDGameMobile1688770154429 disconnected.
+1688770167: New connection from 37.134.206.92:14378 on port 1883.
+1688770167: New client connected from 37.134.206.92:14378 as HIDGameMobile1688770154692 (p2, c1, k60).
+1688770167: New connection from 37.134.206.92:53890 on port 1883.
+1688770168: New client connected from 37.134.206.92:53890 as HIDGameMobile1688770154429 (p2, c1, k60).
+1688770179: Client HIDGameMobile1688770154692 closed its connection.
+1688770183: Client HIDGameMobile1688770154429 closed its connection.
+1688770187: New connection from 37.134.206.92:53892 on port 1883.
+1688770187: New client connected from 37.134.206.92:53892 as HIDGameMobile1688770184670 (p2, c1, k60).
+1688770188: Client HIDGameMobile1688770184670 disconnected.
+1688770190: New connection from 37.134.206.92:14403 on port 1883.
+1688770190: New client connected from 37.134.206.92:14403 as HIDGameMobile1688770179836 (p2, c1, k60).
+1688770190: Client HIDGameMobile1688770179836 disconnected.
+1688770192: New connection from 37.134.206.92:14405 on port 1883.
+1688770192: New client connected from 37.134.206.92:14405 as HIDGameMobile1688770179836 (p2, c1, k60).
+1688770195: New connection from 37.134.206.92:53894 on port 1883.
+1688770195: New client connected from 37.134.206.92:53894 as HIDGameMobile1688770184670 (p2, c1, k60).
+1688770195: Client HIDGameMobile1688770179836 disconnected.
+1688770195: Client HIDGameMobile1688770184670 disconnected.
+1688770196: New connection from 37.134.206.92:14407 on port 1883.
+1688770196: New connection from 37.134.206.92:53896 on port 1883.
+1688770196: New client connected from 37.134.206.92:14407 as HIDGameMobile1688770179836 (p2, c1, k60).
+1688770196: New client connected from 37.134.206.92:53896 as HIDGameMobile1688770184670 (p2, c1, k60).
+1688770569: Client HIDGameMobile1688770184670 closed its connection.
+1688771468: Client HIDGameMobile1688770179836 closed its connection.
+1688771472: New connection from 37.134.206.92:56572 on port 1883.
+1688771472: New client connected from 37.134.206.92:56572 as HIDGameMobile1688771470108 (p2, c1, k60).
+1688771473: Client HIDGameMobile1688771470108 disconnected.
+1688771475: New connection from 37.134.206.92:14952 on port 1883.
+1688771475: New client connected from 37.134.206.92:14952 as HIDGameMobile1688771466018 (p2, c1, k60).
+1688771475: Client HIDGameMobile1688771466018 disconnected.
+1688771476: New connection from 37.134.206.92:14955 on port 1883.
+1688771476: New client connected from 37.134.206.92:14955 as HIDGameMobile1688771466018 (p2, c1, k60).
+1688771477: New connection from 37.134.206.92:56574 on port 1883.
+1688771478: New client connected from 37.134.206.92:56574 as HIDGameMobile1688771470108 (p2, c1, k60).
+1688771478: Client HIDGameMobile1688771466018 disconnected.
+1688771478: Client HIDGameMobile1688771470108 disconnected.
+1688771478: New connection from 37.134.206.92:14956 on port 1883.
+1688771479: New client connected from 37.134.206.92:14956 as HIDGameMobile1688771466018 (p2, c1, k60).
+1688771479: New connection from 37.134.206.92:56576 on port 1883.
+1688771479: New client connected from 37.134.206.92:56576 as HIDGameMobile1688771470108 (p2, c1, k60).
+1688771657: Client HIDGameMobile1688771470108 closed its connection.
+1688771661: Client HIDGameMobile1688771466018 closed its connection.
+1688771663: New connection from 37.134.206.92:56614 on port 1883.
+1688771664: New client connected from 37.134.206.92:56614 as HIDGameMobile1688771659938 (p2, c1, k60).
+1688771664: Client HIDGameMobile1688771659938 disconnected.
+1688771665: New connection from 37.134.206.92:56616 on port 1883.
+1688771665: New client connected from 37.134.206.92:56616 as HIDGameMobile1688771659938 (p2, c1, k60).
+1688771667: New connection from 37.134.206.92:1079 on port 1883.
+1688771668: New client connected from 37.134.206.92:1079 as HIDGameMobile1688771658386 (p2, c1, k60).
+1688771668: Client HIDGameMobile1688771658386 disconnected.
+1688771669: New connection from 37.134.206.92:1080 on port 1883.
+1688771669: New client connected from 37.134.206.92:1080 as HIDGameMobile1688771658386 (p2, c1, k60).
+1688771669: Client HIDGameMobile1688771658386 disconnected.
+1688771670: New connection from 37.134.206.92:1081 on port 1883.
+1688771670: Client HIDGameMobile1688771659938 disconnected.
+1688771670: New client connected from 37.134.206.92:1081 as HIDGameMobile1688771658386 (p2, c1, k60).
+1688771671: New connection from 37.134.206.92:56618 on port 1883.
+1688771671: New client connected from 37.134.206.92:56618 as HIDGameMobile1688771659938 (p2, c1, k60).
+1688771678: Client HIDGameMobile1688771658386 closed its connection.
+1688771683: Client HIDGameMobile1688771659938 closed its connection.
+1688771688: New connection from 37.134.206.92:56628 on port 1883.
+1688771689: New client connected from 37.134.206.92:56628 as HIDGameMobile1688771684336 (p2, c1, k60).
+1688771689: Client HIDGameMobile1688771684336 disconnected.
+1688771690: New connection from 37.134.206.92:1102 on port 1883.
+1688771690: New client connected from 37.134.206.92:1102 as HIDGameMobile1688771675057 (p2, c1, k60).
+1688771690: Client HIDGameMobile1688771675057 disconnected.
+1688771691: New connection from 37.134.206.92:56630 on port 1883.
+1688771691: New client connected from 37.134.206.92:56630 as HIDGameMobile1688771684336 (p2, c1, k60).
+1688771692: New connection from 37.134.206.92:1106 on port 1883.
+1688771692: New client connected from 37.134.206.92:1106 as HIDGameMobile1688771675057 (p2, c1, k60).
+1688771692: Client HIDGameMobile1688771675057 disconnected.
+1688771693: Client HIDGameMobile1688771684336 disconnected.
+1688771693: New connection from 37.134.206.92:1108 on port 1883.
+1688771693: New client connected from 37.134.206.92:1108 as HIDGameMobile1688771675057 (p2, c1, k60).
+1688771694: New connection from 37.134.206.92:56632 on port 1883.
+1688771694: New client connected from 37.134.206.92:56632 as HIDGameMobile1688771684336 (p2, c1, k60).
+1688771897: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688772072: Client HIDGameMobile1688771675057 closed its connection.
+1688772073: Client HIDGameMobile1688771684336 closed its connection.
+1688772078: New connection from 37.134.206.92:1305 on port 1883.
+1688772079: New client connected from 37.134.206.92:1305 as HIDGameMobile1688772070598 (p2, c1, k60).
+1688772079: Client HIDGameMobile1688772070598 disconnected.
+1688772081: New connection from 37.134.206.92:56654 on port 1883.
+1688772081: New client connected from 37.134.206.92:56654 as HIDGameMobile1688772074491 (p2, c1, k60).
+1688772082: Client HIDGameMobile1688772074491 disconnected.
+1688772083: New connection from 37.134.206.92:56656 on port 1883.
+1688772083: New client connected from 37.134.206.92:56656 as HIDGameMobile1688772074491 (p2, c1, k60).
+1688772086: New connection from 37.134.206.92:1309 on port 1883.
+1688772086: New client connected from 37.134.206.92:1309 as HIDGameMobile1688772070598 (p2, c1, k60).
+1688772086: Client HIDGameMobile1688772070598 disconnected.
+1688772086: Client HIDGameMobile1688772074491 disconnected.
+1688772087: New connection from 37.134.206.92:1310 on port 1883.
+1688772087: New client connected from 37.134.206.92:1310 as HIDGameMobile1688772070598 (p2, c1, k60).
+1688772087: New connection from 37.134.206.92:56658 on port 1883.
+1688772088: New client connected from 37.134.206.92:56658 as HIDGameMobile1688772074491 (p2, c1, k60).
+1688772453: Client HIDGameMobile1688772074491 closed its connection.
+1688772939: Client HIDGameMobile1688772070598 closed its connection.
+1688772990: New connection from 37.134.206.92:57464 on port 1883.
+1688772991: New client connected from 37.134.206.92:57464 as HIDGameMobile1688772985329 (p2, c1, k60).
+1688772991: Client HIDGameMobile1688772985329 disconnected.
+1688773005: New connection from 37.134.206.92:57540 on port 1883.
+1688773005: New client connected from 37.134.206.92:57540 as HIDGameMobile1688773000964 (p2, c1, k60).
+1688773005: Client HIDGameMobile1688773000964 disconnected.
+1688773007: New connection from 37.134.206.92:57544 on port 1883.
+1688773007: New client connected from 37.134.206.92:57544 as HIDGameMobile1688773000964 (p2, c1, k60).
+1688773008: New connection from 37.134.206.92:1631 on port 1883.
+1688773008: New client connected from 37.134.206.92:1631 as HIDGameMobile1688772937353 (p2, c1, k60).
+1688773008: Client HIDGameMobile1688772937353 disconnected.
+1688773009: New connection from 37.134.206.92:1633 on port 1883.
+1688773010: New client connected from 37.134.206.92:1633 as HIDGameMobile1688772937353 (p2, c1, k60).
+1688773010: Client HIDGameMobile1688772937353 disconnected.
+1688773010: Client HIDGameMobile1688773000964 disconnected.
+1688773011: New connection from 37.134.206.92:1634 on port 1883.
+1688773011: New client connected from 37.134.206.92:1634 as HIDGameMobile1688772937353 (p2, c1, k60).
+1688773011: New connection from 37.134.206.92:57548 on port 1883.
+1688773012: New client connected from 37.134.206.92:57548 as HIDGameMobile1688773000964 (p2, c1, k60).
+1688773099: Client HIDGameMobile1688772937353 closed its connection.
+1688773114: Client HIDGameMobile1688773000964 closed its connection.
+1688773120: New connection from 37.134.206.92:57620 on port 1883.
+1688773120: New client connected from 37.134.206.92:57620 as HIDGameMobile1688773116767 (p2, c1, k60).
+1688773120: Client HIDGameMobile1688773116767 disconnected.
+1688773265: New connection from 37.134.206.92:12175 on port 1883.
+1688773265: New client connected from 37.134.206.92:12175 as HIDGameMobile1688773243680 (p2, c1, k60).
+1688773265: Client HIDGameMobile1688773243680 disconnected.
+1688773268: New connection from 37.134.206.92:12491 on port 1883.
+1688773268: New client connected from 37.134.206.92:12491 as HIDGameMobile1688773243680 (p2, c1, k60).
+1688773269: Client HIDGameMobile1688773243680 disconnected.
+1688773269: New connection from 37.134.206.92:12500 on port 1883.
+1688773270: New client connected from 37.134.206.92:12500 as HIDGameMobile1688773243680 (p2, c1, k60).
+1688773270: New connection from 37.134.206.92:57626 on port 1883.
+1688773271: New client connected from 37.134.206.92:57626 as HIDGameMobile1688773116767 (p2, c1, k60).
+1688773318: Client HIDGameMobile1688773116767 closed its connection.
+1688773698: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688775499: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688776008: Client HIDGameMobile1688773243680 closed its connection.
+1688776014: New connection from 37.134.206.92:13478 on port 1883.
+1688776015: New client connected from 37.134.206.92:13478 as HIDGameMobile1688776005787 (p2, c1, k60).
+1688776015: Client HIDGameMobile1688776005787 disconnected.
+1688776038: New connection from 37.134.206.92:57860 on port 1883.
+1688776038: New client connected from 37.134.206.92:57860 as HIDGameMobile1688776011170 (p2, c1, k60).
+1688776038: Client HIDGameMobile1688776011170 disconnected.
+1688776039: New connection from 37.134.206.92:13485 on port 1883.
+1688776039: New client connected from 37.134.206.92:13485 as HIDGameMobile1688776005787 (p2, c1, k60).
+1688776039: Client HIDGameMobile1688776005787 disconnected.
+1688776040: New connection from 37.134.206.92:13486 on port 1883.
+1688776040: New connection from 37.134.206.92:57862 on port 1883.
+1688776040: New client connected from 37.134.206.92:13486 as HIDGameMobile1688776005787 (p2, c1, k60).
+1688776040: New client connected from 37.134.206.92:57862 as HIDGameMobile1688776011170 (p2, c1, k60).
+1688776040: Client HIDGameMobile1688776011170 disconnected.
+1688776041: New connection from 37.134.206.92:57864 on port 1883.
+1688776042: New client connected from 37.134.206.92:57864 as HIDGameMobile1688776011170 (p2, c1, k60).
+1688776052: Client HIDGameMobile1688776011170 closed its connection.
+1688776056: New connection from 37.134.206.92:57866 on port 1883.
+1688776056: New client connected from 37.134.206.92:57866 as HIDGameMobile1688776052716 (p2, c1, k60).
+1688776056: Client HIDGameMobile1688776052716 disconnected.
+1688776062: New connection from 37.134.206.92:57868 on port 1883.
+1688776063: New client connected from 37.134.206.92:57868 as HIDGameMobile1688776052716 (p2, c1, k60).
+1688776145: Client HIDGameMobile1688776005787 closed its connection.
+1688776148: New connection from 37.134.206.92:13534 on port 1883.
+1688776148: New client connected from 37.134.206.92:13534 as HIDGameMobile1688776142138 (p2, c1, k60).
+1688776148: Client HIDGameMobile1688776142138 disconnected.
+1688776150: New connection from 37.134.206.92:13535 on port 1883.
+1688776150: New client connected from 37.134.206.92:13535 as HIDGameMobile1688776142138 (p2, c1, k60).
+1688776150: Client HIDGameMobile1688776142138 disconnected.
+1688776150: Client HIDGameMobile1688776052716 disconnected.
+1688776151: New connection from 37.134.206.92:13537 on port 1883.
+1688776151: New client connected from 37.134.206.92:13537 as HIDGameMobile1688776142138 (p2, c1, k60).
+1688776151: New connection from 37.134.206.92:57870 on port 1883.
+1688776152: New client connected from 37.134.206.92:57870 as HIDGameMobile1688776052716 (p2, c1, k60).
+1688776241: Client HIDGameMobile1688776142138 closed its connection.
+1688776246: Client HIDGameMobile1688776052716 closed its connection.
+1688776259: New connection from 37.134.206.92:57876 on port 1883.
+1688776259: New client connected from 37.134.206.92:57876 as HIDGameMobile1688776255693 (p2, c1, k60).
+1688776260: Client HIDGameMobile1688776255693 disconnected.
+1688776262: New connection from 37.134.206.92:13577 on port 1883.
+1688776262: New client connected from 37.134.206.92:13577 as HIDGameMobile1688776238459 (p2, c1, k60).
+1688776262: Client HIDGameMobile1688776238459 disconnected.
+1688776264: New connection from 37.134.206.92:13578 on port 1883.
+1688776264: New client connected from 37.134.206.92:13578 as HIDGameMobile1688776238459 (p2, c1, k60).
+1688776264: New connection from 37.134.206.92:57886 on port 1883.
+1688776265: New client connected from 37.134.206.92:57886 as HIDGameMobile1688776255693 (p2, c1, k60).
+1688776265: Client HIDGameMobile1688776238459 disconnected.
+1688776265: Client HIDGameMobile1688776255693 disconnected.
+1688776266: New connection from 37.134.206.92:13579 on port 1883.
+1688776266: New connection from 37.134.206.92:57890 on port 1883.
+1688776266: New client connected from 37.134.206.92:13579 as HIDGameMobile1688776238459 (p2, c1, k60).
+1688776266: New client connected from 37.134.206.92:57890 as HIDGameMobile1688776255693 (p2, c1, k60).
+1688776537: New connection from 52.148.250.153:53185 on port 1883.
+1688776537: Client Server already connected, closing old connection.
+1688776537: New client connected from 52.148.250.153:53185 as Server (p2, c1, k60).
+1688776648: mosquitto version 2.0.15 terminating
+1688776648: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688776665: mosquitto version 2.0.15 starting
+1688776665: Config loaded from /mosquitto/config/mosquitto.conf.
+1688776665: Opening ipv4 listen socket on port 1883.
+1688776665: Opening ipv6 listen socket on port 1883.
+1688776665: mosquitto version 2.0.15 running
+1688776666: New connection from 52.148.250.153:51831 on port 1883.
+1688776666: New client connected from 52.148.250.153:51831 as Server (p2, c1, k60).
+1688776691: New connection from 37.134.206.92:13719 on port 1883.
+1688776691: New client connected from 37.134.206.92:13719 as HIDGameMobile1688776671603 (p2, c1, k60).
+1688776691: Client HIDGameMobile1688776671603 disconnected.
+1688776693: New connection from 37.134.206.92:13720 on port 1883.
+1688776693: New client connected from 37.134.206.92:13720 as HIDGameMobile1688776671603 (p2, c1, k60).
+1688776695: New connection from 37.134.206.92:57956 on port 1883.
+1688776695: New client connected from 37.134.206.92:57956 as HIDGameMobile1688776678435 (p2, c1, k60).
+1688776696: Client HIDGameMobile1688776678435 disconnected.
+1688776696: New connection from 37.134.206.92:57958 on port 1883.
+1688776697: New client connected from 37.134.206.92:57958 as HIDGameMobile1688776678435 (p2, c1, k60).
+1688776697: Client HIDGameMobile1688776671603 disconnected.
+1688776697: Client HIDGameMobile1688776678435 disconnected.
+1688776697: New connection from 37.134.206.92:13723 on port 1883.
+1688776698: New client connected from 37.134.206.92:13723 as HIDGameMobile1688776671603 (p2, c1, k60).
+1688776698: New connection from 37.134.206.92:57960 on port 1883.
+1688776698: New client connected from 37.134.206.92:57960 as HIDGameMobile1688776678435 (p2, c1, k60).
+1688776726: Client HIDGameMobile1688776678435 closed its connection.
+1688776758: mosquitto version 2.0.15 terminating
+1688776758: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688776885: mosquitto version 2.0.15 starting
+1688776885: Config loaded from /mosquitto/config/mosquitto.conf.
+1688776885: Opening ipv4 listen socket on port 1883.
+1688776885: Opening ipv6 listen socket on port 1883.
+1688776885: mosquitto version 2.0.15 running
+1688776886: New connection from 52.148.250.153:40575 on port 1883.
+1688776886: New client connected from 52.148.250.153:40575 as Server (p2, c1, k60).
+1688776889: New connection from 37.134.206.92:13785 on port 1883.
+1688776890: New client connected from 37.134.206.92:13785 as HIDGameMobile1688776671603 (p1, c1, k60).
+1688777068: Client HIDGameMobile1688776671603 closed its connection.
+1688777073: New connection from 37.134.206.92:57974 on port 1883.
+1688777073: New client connected from 37.134.206.92:57974 as HIDGameMobile1688777069889 (p2, c1, k60).
+1688777073: Client HIDGameMobile1688777069889 disconnected.
+1688777076: New connection from 37.134.206.92:13850 on port 1883.
+1688777076: New client connected from 37.134.206.92:13850 as HIDGameMobile1688777065638 (p2, c1, k60).
+1688777077: Client HIDGameMobile1688777065638 disconnected.
+1688777078: New connection from 37.134.206.92:13851 on port 1883.
+1688777078: New client connected from 37.134.206.92:13851 as HIDGameMobile1688777065638 (p2, c1, k60).
+1688777078: New connection from 37.134.206.92:57976 on port 1883.
+1688777079: New client connected from 37.134.206.92:57976 as HIDGameMobile1688777069889 (p2, c1, k60).
+1688777079: Client HIDGameMobile1688777065638 disconnected.
+1688777079: Client HIDGameMobile1688777069889 disconnected.
+1688777079: New connection from 37.134.206.92:13852 on port 1883.
+1688777080: New connection from 37.134.206.92:57978 on port 1883.
+1688777080: New client connected from 37.134.206.92:13852 as HIDGameMobile1688777065638 (p2, c1, k60).
+1688777080: New client connected from 37.134.206.92:57978 as HIDGameMobile1688777069889 (p2, c1, k60).
+1688777213: Client Server closed its connection.
+1688777214: New connection from 52.148.250.153:37111 on port 1883.
+1688777214: New client connected from 52.148.250.153:37111 as Server (p2, c1, k60).
+1688777216: Client HIDGameMobile1688777069889 closed its connection.
+1688777221: Client HIDGameMobile1688777065638 closed its connection.
+1688777224: New connection from 37.134.206.92:57994 on port 1883.
+1688777224: New client connected from 37.134.206.92:57994 as HIDGameMobile1688777217225 (p2, c1, k60).
+1688777224: Client HIDGameMobile1688777217225 disconnected.
+1688777227: New connection from 37.134.206.92:13922 on port 1883.
+1688777227: New client connected from 37.134.206.92:13922 as HIDGameMobile1688777218171 (p2, c1, k60).
+1688777227: Client HIDGameMobile1688777218171 disconnected.
+1688777228: New connection from 37.134.206.92:13923 on port 1883.
+1688777228: New client connected from 37.134.206.92:13923 as HIDGameMobile1688777218171 (p2, c1, k60).
+1688777229: New connection from 37.134.206.92:57998 on port 1883.
+1688777229: New client connected from 37.134.206.92:57998 as HIDGameMobile1688777217225 (p2, c1, k60).
+1688777230: Client HIDGameMobile1688777218171 disconnected.
+1688777230: Client HIDGameMobile1688777217225 disconnected.
+1688777230: New connection from 37.134.206.92:13924 on port 1883.
+1688777231: New client connected from 37.134.206.92:13924 as HIDGameMobile1688777218171 (p2, c1, k60).
+1688777231: New connection from 37.134.206.92:58000 on port 1883.
+1688777231: New client connected from 37.134.206.92:58000 as HIDGameMobile1688777217225 (p2, c1, k60).
+1688777231: Client Server closed its connection.
+1688777342: Client HIDGameMobile1688777217225 closed its connection.
+1688777347: Client HIDGameMobile1688777218171 closed its connection.
+1688777350: New connection from 37.134.206.92:58002 on port 1883.
+1688777350: New client connected from 37.134.206.92:58002 as HIDGameMobile1688777343140 (p2, c1, k60).
+1688777352: New connection from 37.134.206.92:13973 on port 1883.
+1688777353: New client connected from 37.134.206.92:13973 as HIDGameMobile1688777344591 (p2, c1, k60).
+1688777376: New connection from 52.148.250.153:40119 on port 1883.
+1688777376: New client connected from 52.148.250.153:40119 as Server (p2, c1, k60).
+1688777380: Client HIDGameMobile1688777344591 disconnected.
+1688777381: New connection from 37.134.206.92:13979 on port 1883.
+1688777382: New client connected from 37.134.206.92:13979 as HIDGameMobile1688777344591 (p2, c1, k60).
+1688777382: Client HIDGameMobile1688777343140 disconnected.
+1688777383: New connection from 37.134.206.92:58004 on port 1883.
+1688777384: New client connected from 37.134.206.92:58004 as HIDGameMobile1688777343140 (p2, c1, k60).
+1688777384: Client HIDGameMobile1688777344591 disconnected.
+1688777384: Client HIDGameMobile1688777343140 disconnected.
+1688777384: New connection from 37.134.206.92:13981 on port 1883.
+1688777385: New connection from 37.134.206.92:58006 on port 1883.
+1688777385: New client connected from 37.134.206.92:13981 as HIDGameMobile1688777344591 (p2, c1, k60).
+1688777385: New client connected from 37.134.206.92:58006 as HIDGameMobile1688777343140 (p2, c1, k60).
+1688777385: Client Server closed its connection.
+1688777394: mosquitto version 2.0.15 terminating
+1688777394: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688777453: mosquitto version 2.0.15 starting
+1688777453: Config loaded from /mosquitto/config/mosquitto.conf.
+1688777453: Opening ipv4 listen socket on port 1883.
+1688777453: Opening ipv6 listen socket on port 1883.
+1688777453: mosquitto version 2.0.15 running
+1688777454: New connection from 52.148.250.153:49895 on port 1883.
+1688777454: New client connected from 52.148.250.153:49895 as Server (p2, c1, k60).
+1688777458: New connection from 37.134.206.92:14017 on port 1883.
+1688777458: New client connected from 37.134.206.92:14017 as HIDGameMobile1688777443495 (p2, c1, k60).
+1688777458: Client HIDGameMobile1688777443495 disconnected.
+1688777461: New connection from 37.134.206.92:58030 on port 1883.
+1688777462: New client connected from 37.134.206.92:58030 as HIDGameMobile1688777458849 (p2, c1, k60).
+1688777462: Client HIDGameMobile1688777458849 disconnected.
+1688777463: New connection from 37.134.206.92:58032 on port 1883.
+1688777463: New client connected from 37.134.206.92:58032 as HIDGameMobile1688777458849 (p2, c1, k60).
+1688777464: New connection from 37.134.206.92:14019 on port 1883.
+1688777464: New client connected from 37.134.206.92:14019 as HIDGameMobile1688777443495 (p2, c1, k60).
+1688777465: Client HIDGameMobile1688777443495 disconnected.
+1688777465: Client HIDGameMobile1688777458849 disconnected.
+1688777465: New connection from 37.134.206.92:14020 on port 1883.
+1688777465: New client connected from 37.134.206.92:14020 as HIDGameMobile1688777443495 (p2, c1, k60).
+1688777466: New connection from 37.134.206.92:58034 on port 1883.
+1688777466: New client connected from 37.134.206.92:58034 as HIDGameMobile1688777458849 (p2, c1, k60).
+1688777648: Client Server closed its connection.
+1688777649: mosquitto version 2.0.15 terminating
+1688777649: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688777682: mosquitto version 2.0.15 starting
+1688777682: Config loaded from /mosquitto/config/mosquitto.conf.
+1688777682: Opening ipv4 listen socket on port 1883.
+1688777682: Opening ipv6 listen socket on port 1883.
+1688777682: mosquitto version 2.0.15 running
+1688777683: New connection from 52.148.250.153:43519 on port 1883.
+1688777683: New client connected from 52.148.250.153:43519 as Server (p2, c1, k60).
+1688777712: New connection from 37.134.206.92:58062 on port 1883.
+1688777713: New client connected from 37.134.206.92:58062 as HIDGameMobile1688777458849 (p2, c1, k60).
+1688777994: New connection from 167.94.145.57:32770 on port 1883.
+1688777994: New client connected from 167.94.145.57:32770 as CENSYS (p2, c0, k10).
+1688778009: Client CENSYS closed its connection.
+1688778168: Client HIDGameMobile1688777458849 has exceeded timeout, disconnecting.
+1688778499: New connection from 37.134.206.92:58114 on port 1883.
+1688778499: New client connected from 37.134.206.92:58114 as HIDGameMobile1688777458849 (p2, c1, k60).
+1688778499: Client Server closed its connection.
+1688778499: New connection from 37.134.206.92:58110 on port 1883.
+1688778500: Client HIDGameMobile1688777458849 already connected, closing old connection.
+1688778500: New client connected from 37.134.206.92:58110 as HIDGameMobile1688777458849 (p2, c1, k60).
+1688778501: New connection from 37.134.206.92:58130 on port 1883.
+1688778501: Client <unknown> closed its connection.
+1688778501: Client HIDGameMobile1688777458849 closed its connection.
+1688778505: New connection from 37.134.206.92:14466 on port 1883.
+1688778506: New client connected from 37.134.206.92:14466 as HIDGameMobile1688778495237 (p2, c1, k60).
+1688778508: New connection from 37.134.206.92:58160 on port 1883.
+1688778509: New client connected from 37.134.206.92:58160 as HIDGameMobile1688778501681 (p2, c1, k60).
+1688778550: New connection from 52.148.250.153:58071 on port 1883.
+1688778550: New client connected from 52.148.250.153:58071 as Server (p2, c1, k60).
+1688778554: Client HIDGameMobile1688778495237 disconnected.
+1688778555: New connection from 37.134.206.92:14483 on port 1883.
+1688778555: New client connected from 37.134.206.92:14483 as HIDGameMobile1688778495237 (p2, c1, k60).
+1688778556: Client HIDGameMobile1688778501681 disconnected.
+1688778557: New connection from 37.134.206.92:58174 on port 1883.
+1688778557: New client connected from 37.134.206.92:58174 as HIDGameMobile1688778501681 (p2, c1, k60).
+1688778557: Client HIDGameMobile1688778495237 disconnected.
+1688778557: Client HIDGameMobile1688778501681 disconnected.
+1688778558: New connection from 37.134.206.92:14485 on port 1883.
+1688778558: New connection from 37.134.206.92:58176 on port 1883.
+1688778558: New client connected from 37.134.206.92:14485 as HIDGameMobile1688778495237 (p2, c1, k60).
+1688778559: New client connected from 37.134.206.92:58176 as HIDGameMobile1688778501681 (p2, c1, k60).
+1688778619: Client Server closed its connection.
+1688779001: New connection from 52.148.250.153:34009 on port 1883.
+1688779001: New client connected from 52.148.250.153:34009 as Server (p2, c1, k60).
+1688779017: Client HIDGameMobile1688778501681 closed its connection.
+1688779020: Client HIDGameMobile1688778495237 closed its connection.
+1688779042: Client Server closed its connection.
+1688779043: New connection from 52.148.250.153:49207 on port 1883.
+1688779043: New client connected from 52.148.250.153:49207 as Server (p2, c1, k60).
+1688779059: New connection from 37.134.206.92:14645 on port 1883.
+1688779059: New client connected from 37.134.206.92:14645 as HIDGameMobile1688779033943 (p2, c1, k60).
+1688779060: Client HIDGameMobile1688779033943 disconnected.
+1688779061: New connection from 37.134.206.92:14646 on port 1883.
+1688779061: New client connected from 37.134.206.92:14646 as HIDGameMobile1688779033943 (p2, c1, k60).
+1688779068: New connection from 37.134.206.92:58246 on port 1883.
+1688779068: New client connected from 37.134.206.92:58246 as HIDGameMobile1688779064505 (p2, c1, k60).
+1688779068: Client HIDGameMobile1688779064505 disconnected.
+1688779069: New connection from 37.134.206.92:58250 on port 1883.
+1688779070: New client connected from 37.134.206.92:58250 as HIDGameMobile1688779064505 (p2, c1, k60).
+1688779070: Client HIDGameMobile1688779033943 disconnected.
+1688779070: Client HIDGameMobile1688779064505 disconnected.
+1688779070: New connection from 37.134.206.92:14658 on port 1883.
+1688779071: New client connected from 37.134.206.92:14658 as HIDGameMobile1688779033943 (p2, c1, k60).
+1688779071: New connection from 37.134.206.92:58254 on port 1883.
+1688779071: New client connected from 37.134.206.92:58254 as HIDGameMobile1688779064505 (p2, c1, k60).
+1688779116: Client Server closed its connection.
+1688779144: New connection from 52.148.250.153:49145 on port 1883.
+1688779144: New client connected from 52.148.250.153:49145 as Server (p2, c1, k60).
+1688779149: Client HIDGameMobile1688779064505 closed its connection.
+1688779156: New connection from 37.134.206.92:58308 on port 1883.
+1688779156: New client connected from 37.134.206.92:58308 as HIDGameMobile1688779149690 (p2, c1, k60).
+1688779157: Client HIDGameMobile1688779149690 disconnected.
+1688779164: New connection from 37.134.206.92:58310 on port 1883.
+1688779164: New client connected from 37.134.206.92:58310 as HIDGameMobile1688779159118 (p2, c1, k60).
+1688779164: Client HIDGameMobile1688779159118 disconnected.
+1688779166: Client HIDGameMobile1688779033943 closed its connection.
+1688779171: New connection from 37.134.206.92:14719 on port 1883.
+1688779171: New client connected from 37.134.206.92:14719 as HIDGameMobile1688779163239 (p2, c1, k60).
+1688779171: Client HIDGameMobile1688779163239 disconnected.
+1688779172: New connection from 37.134.206.92:14720 on port 1883.
+1688779173: New client connected from 37.134.206.92:14720 as HIDGameMobile1688779163239 (p2, c1, k60).
+1688779173: New connection from 37.134.206.92:58312 on port 1883.
+1688779174: New client connected from 37.134.206.92:58312 as HIDGameMobile1688779159118 (p2, c1, k60).
+1688779174: Client HIDGameMobile1688779163239 disconnected.
+1688779174: Client HIDGameMobile1688779159118 disconnected.
+1688779175: New connection from 37.134.206.92:14722 on port 1883.
+1688779175: New client connected from 37.134.206.92:14722 as HIDGameMobile1688779163239 (p2, c1, k60).
+1688779175: New connection from 37.134.206.92:58314 on port 1883.
+1688779175: New client connected from 37.134.206.92:58314 as HIDGameMobile1688779159118 (p2, c1, k60).
+1688779202: Client Server closed its connection.
+1688779219: mosquitto version 2.0.15 terminating
+1688779219: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688779291: mosquitto version 2.0.15 starting
+1688779291: Config loaded from /mosquitto/config/mosquitto.conf.
+1688779291: Opening ipv4 listen socket on port 1883.
+1688779291: Opening ipv6 listen socket on port 1883.
+1688779291: mosquitto version 2.0.15 running
+1688779292: New connection from 52.148.250.153:49121 on port 1883.
+1688779292: New client connected from 52.148.250.153:49121 as Server (p2, c1, k60).
+1688779295: New connection from 37.134.206.92:14783 on port 1883.
+1688779295: New client connected from 37.134.206.92:14783 as HIDGameMobile1688779255798 (p2, c1, k60).
+1688779296: Client HIDGameMobile1688779255798 disconnected.
+1688779299: New connection from 37.134.206.92:58336 on port 1883.
+1688779299: New client connected from 37.134.206.92:58336 as HIDGameMobile1688779254375 (p2, c1, k60).
+1688779299: Client HIDGameMobile1688779254375 disconnected.
+1688779300: New connection from 37.134.206.92:14786 on port 1883.
+1688779300: New client connected from 37.134.206.92:14786 as HIDGameMobile1688779255798 (p2, c1, k60).
+1688779301: New connection from 37.134.206.92:58338 on port 1883.
+1688779301: New client connected from 37.134.206.92:58338 as HIDGameMobile1688779254375 (p2, c1, k60).
+1688779301: Client HIDGameMobile1688779255798 disconnected.
+1688779302: Client HIDGameMobile1688779254375 disconnected.
+1688779302: New connection from 37.134.206.92:14787 on port 1883.
+1688779302: New connection from 37.134.206.92:58340 on port 1883.
+1688779302: New client connected from 37.134.206.92:14787 as HIDGameMobile1688779255798 (p2, c1, k60).
+1688779303: New client connected from 37.134.206.92:58340 as HIDGameMobile1688779254375 (p2, c1, k60).
+1688779349: Client Server closed its connection.
+1688779385: Client HIDGameMobile1688779255798 closed its connection.
+1688779388: Client HIDGameMobile1688779254375 closed its connection.
+1688779392: New connection from 37.134.206.92:14836 on port 1883.
+1688779392: New client connected from 37.134.206.92:14836 as HIDGameMobile1688779382787 (p2, c1, k60).
+1688779395: New connection from 37.134.206.92:58342 on port 1883.
+1688779395: New client connected from 37.134.206.92:58342 as HIDGameMobile1688779388595 (p2, c1, k60).
+1688779402: New connection from 52.148.250.153:57011 on port 1883.
+1688779402: New client connected from 52.148.250.153:57011 as Server (p2, c1, k60).
+1688779404: Client HIDGameMobile1688779382787 disconnected.
+1688779405: Client HIDGameMobile1688779388595 disconnected.
+1688779407: New connection from 37.134.206.92:14841 on port 1883.
+1688779407: New connection from 37.134.206.92:58344 on port 1883.
+1688779407: New client connected from 37.134.206.92:14841 as HIDGameMobile1688779382787 (p2, c1, k60).
+1688779407: New client connected from 37.134.206.92:58344 as HIDGameMobile1688779388595 (p2, c1, k60).
+1688779408: Client HIDGameMobile1688779382787 disconnected.
+1688779408: Client HIDGameMobile1688779388595 disconnected.
+1688779408: New connection from 37.134.206.92:14842 on port 1883.
+1688779409: New connection from 37.134.206.92:58346 on port 1883.
+1688779409: New client connected from 37.134.206.92:14842 as HIDGameMobile1688779382787 (p2, c1, k60).
+1688779409: New client connected from 37.134.206.92:58346 as HIDGameMobile1688779388595 (p2, c1, k60).
+1688779538: Client HIDGameMobile1688779388595 closed its connection.
+1688779540: Client HIDGameMobile1688779382787 closed its connection.
+1688779544: New connection from 37.134.206.92:58362 on port 1883.
+1688779544: New client connected from 37.134.206.92:58362 as HIDGameMobile1688779538314 (p2, c1, k60).
+1688779544: Client HIDGameMobile1688779538314 disconnected.
+1688779548: New connection from 37.134.206.92:14895 on port 1883.
+1688779548: New client connected from 37.134.206.92:14895 as HIDGameMobile1688779538023 (p2, c1, k60).
+1688779549: Client HIDGameMobile1688779538023 disconnected.
+1688779549: New connection from 37.134.206.92:58364 on port 1883.
+1688779549: New client connected from 37.134.206.92:58364 as HIDGameMobile1688779538314 (p2, c1, k60).
+1688779550: New connection from 37.134.206.92:14896 on port 1883.
+1688779551: New client connected from 37.134.206.92:14896 as HIDGameMobile1688779538023 (p2, c1, k60).
+1688779551: Client HIDGameMobile1688779538023 disconnected.
+1688779551: Client HIDGameMobile1688779538314 disconnected.
+1688779551: New connection from 37.134.206.92:14897 on port 1883.
+1688779552: New client connected from 37.134.206.92:14897 as HIDGameMobile1688779538023 (p2, c1, k60).
+1688779552: New connection from 37.134.206.92:58366 on port 1883.
+1688779552: New client connected from 37.134.206.92:58366 as HIDGameMobile1688779538314 (p2, c1, k60).
+1688779658: Client HIDGameMobile1688779538314 closed its connection.
+1688779724: Client HIDGameMobile1688779538023 closed its connection.
+1688779730: New connection from 37.134.206.92:14968 on port 1883.
+1688779730: New client connected from 37.134.206.92:14968 as HIDGameMobile1688779721142 (p2, c1, k60).
+1688779730: Client HIDGameMobile1688779721142 disconnected.
+1688779739: New connection from 37.134.206.92:14972 on port 1883.
+1688779739: New client connected from 37.134.206.92:14972 as HIDGameMobile1688779721142 (p2, c1, k60).
+1688779747: New connection from 37.134.206.92:58398 on port 1883.
+1688779747: New client connected from 37.134.206.92:58398 as HIDGameMobile1688779742597 (p2, c1, k60).
+1688779747: Client HIDGameMobile1688779742597 disconnected.
+1688779749: New connection from 37.134.206.92:58404 on port 1883.
+1688779749: New client connected from 37.134.206.92:58404 as HIDGameMobile1688779742597 (p2, c1, k60).
+1688779750: Client HIDGameMobile1688779721142 disconnected.
+1688779750: Client HIDGameMobile1688779742597 disconnected.
+1688779750: New connection from 37.134.206.92:14982 on port 1883.
+1688779751: New client connected from 37.134.206.92:14982 as HIDGameMobile1688779721142 (p2, c1, k60).
+1688779751: New connection from 37.134.206.92:58406 on port 1883.
+1688779751: New client connected from 37.134.206.92:58406 as HIDGameMobile1688779742597 (p2, c1, k60).
+1688781092: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688781542: Client HIDGameMobile1688779721142 closed its connection.
+1688781545: New connection from 37.134.206.92:1225 on port 1883.
+1688781545: New client connected from 37.134.206.92:1225 as HIDGameMobile1688781538882 (p2, c1, k60).
+1688781545: Client HIDGameMobile1688781538882 disconnected.
+1688781547: New connection from 37.134.206.92:1226 on port 1883.
+1688781547: New client connected from 37.134.206.92:1226 as HIDGameMobile1688781538882 (p2, c1, k60).
+1688781549: Client HIDGameMobile1688781538882 disconnected.
+1688781549: Client HIDGameMobile1688779742597 closed its connection.
+1688781550: New connection from 37.134.206.92:1231 on port 1883.
+1688781550: New client connected from 37.134.206.92:1231 as HIDGameMobile1688781538882 (p2, c1, k60).
+1688781577: Client HIDGameMobile1688781538882 closed its connection.
+1688781581: New connection from 37.134.206.92:1254 on port 1883.
+1688781581: New client connected from 37.134.206.92:1254 as HIDGameMobile1688781574793 (p2, c1, k60).
+1688781582: Client HIDGameMobile1688781574793 disconnected.
+1688781593: New connection from 37.134.206.92:1262 on port 1883.
+1688781594: New client connected from 37.134.206.92:1262 as HIDGameMobile1688781574793 (p2, c1, k60).
+1688781599: New connection from 37.134.206.92:58544 on port 1883.
+1688781599: New client connected from 37.134.206.92:58544 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688781599: Client HIDGameMobile1688781590350 disconnected.
+1688781600: New connection from 37.134.206.92:58546 on port 1883.
+1688781601: New client connected from 37.134.206.92:58546 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688781601: Client HIDGameMobile1688781574793 disconnected.
+1688781601: Client HIDGameMobile1688781590350 disconnected.
+1688781601: New connection from 37.134.206.92:1266 on port 1883.
+1688781602: New client connected from 37.134.206.92:1266 as HIDGameMobile1688781574793 (p2, c1, k60).
+1688781602: New connection from 37.134.206.92:58548 on port 1883.
+1688781602: New client connected from 37.134.206.92:58548 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688782893: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688783107: Client HIDGameMobile1688781590350 has exceeded timeout, disconnecting.
+1688783113: New connection from 37.134.206.92:58884 on port 1883.
+1688783113: New client connected from 37.134.206.92:58884 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688783162: Client HIDGameMobile1688781590350 closed its connection.
+1688784694: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688785607: New connection from 37.134.206.92:59062 on port 1883.
+1688785607: New connection from 37.134.206.92:59058 on port 1883.
+1688785607: New client connected from 37.134.206.92:59062 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785607: Client HIDGameMobile1688781590350 already connected, closing old connection.
+1688785607: New client connected from 37.134.206.92:59058 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785608: New connection from 37.134.206.92:59074 on port 1883.
+1688785609: Client HIDGameMobile1688781590350 already connected, closing old connection.
+1688785609: New client connected from 37.134.206.92:59074 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785611: New connection from 37.134.206.92:59102 on port 1883.
+1688785612: Client HIDGameMobile1688781590350 already connected, closing old connection.
+1688785612: New client connected from 37.134.206.92:59102 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785613: New connection from 37.134.206.92:59146 on port 1883.
+1688785613: Client HIDGameMobile1688781590350 already connected, closing old connection.
+1688785613: New client connected from 37.134.206.92:59146 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785615: New connection from 37.134.206.92:59192 on port 1883.
+1688785615: Client HIDGameMobile1688781590350 already connected, closing old connection.
+1688785615: New client connected from 37.134.206.92:59192 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785618: New connection from 37.134.206.92:59234 on port 1883.
+1688785618: Client HIDGameMobile1688781590350 already connected, closing old connection.
+1688785618: New client connected from 37.134.206.92:59234 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785619: New connection from 37.134.206.92:59246 on port 1883.
+1688785619: Client HIDGameMobile1688781590350 already connected, closing old connection.
+1688785619: New client connected from 37.134.206.92:59246 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785620: New connection from 37.134.206.92:59264 on port 1883.
+1688785621: Client HIDGameMobile1688781590350 already connected, closing old connection.
+1688785621: New client connected from 37.134.206.92:59264 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785622: New connection from 37.134.206.92:59280 on port 1883.
+1688785622: Client HIDGameMobile1688781590350 already connected, closing old connection.
+1688785622: New client connected from 37.134.206.92:59280 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785623: New connection from 37.134.206.92:59302 on port 1883.
+1688785624: Client HIDGameMobile1688781590350 already connected, closing old connection.
+1688785624: New client connected from 37.134.206.92:59302 as HIDGameMobile1688781590350 (p2, c1, k60).
+1688785624: Client HIDGameMobile1688781590350 closed its connection.
+1688785968: New connection from 74.82.47.4:50680 on port 1883.
+1688785968: New client connected from 74.82.47.4:50680 as MqttClient (p2, c1, k60).
+1688785968: Client MqttClient closed its connection.
+1688786495: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688788022: New connection from 172.104.11.34:4464 on port 1883.
+1688788022: Client <unknown> disconnected due to protocol error.
+1688788296: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688788373: New connection from 37.134.206.92:5461 on port 1883.
+1688788373: Client HIDGameMobile1688781574793 already connected, closing old connection.
+1688788373: New client connected from 37.134.206.92:5461 as HIDGameMobile1688781574793 (p2, c1, k60).
+1688790097: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688791898: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688792742: New connection from 37.134.206.92:7882 on port 1883.
+1688792742: Client HIDGameMobile1688781574793 already connected, closing old connection.
+1688792742: New client connected from 37.134.206.92:7882 as HIDGameMobile1688781574793 (p2, c1, k60).
+1688792775: Client HIDGameMobile1688781574793 closed its connection.
+1688792776: New connection from 37.134.206.92:7894 on port 1883.
+1688792777: New client connected from 37.134.206.92:7894 as HIDGameMobile1688781574793 (p2, c1, k60).
+1688793699: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688795500: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688797301: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688798689: Client HIDGameMobile1688781574793 has exceeded timeout, disconnecting.
+1688798807: New connection from 37.134.206.92:4391 on port 1883.
+1688798807: New client connected from 37.134.206.92:4391 as HIDGameMobile1688781574793 (p1, c1, k60).
+1688799102: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688799622: New connection from 37.134.206.92:4654 on port 1883.
+1688799622: Client HIDGameMobile1688781574793 already connected, closing old connection.
+1688799622: New client connected from 37.134.206.92:4654 as HIDGameMobile1688781574793 (p2, c1, k60).
+1688799655: Client HIDGameMobile1688781574793 closed its connection.
+1688799656: New connection from 37.134.206.92:4672 on port 1883.
+1688799656: New client connected from 37.134.206.92:4672 as HIDGameMobile1688781574793 (p2, c1, k60).
+1688800903: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688802704: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688804505: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688806306: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688806399: Client HIDGameMobile1688781574793 closed its connection.

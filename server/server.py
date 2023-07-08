@@ -164,18 +164,20 @@ class Game:
             print("Winner: "+self.user2.name)
             self.MQTT_client.publish("STC/"+self.game_name+"/round_winner",self.user2.name,2,False)
         print("Scores: "+str(self.user1.score)+","+str(self.user2.score))
-        self.MQTT_client.publish("STC/"+self.game_name+"/round_winner","no",2,False)
+        if points ==0:
+            self.MQTT_client.publish("STC/"+self.game_name+"/round_winner","Tie game",2,False)
         self.MQTT_client.publish("STC/"+self.game_name+"/scores",str(self.user1.score)+","+str(self.user2.score),2,False)
         self.win_game()
     def win_game(self):
+        print("Scores: "+str(self.user1.score)+","+str(self.user2.score))
         if self.user1.score==5:
-            self.MQTT_client.publish("STC/"+self.game_name+"/game_winner",user1.name,2,False)
-            print(user1.name+" wins! "+user1.name+" has reached the 5 points first!")
+            self.MQTT_client.publish("STC/"+self.game_name+"/game_winner",self.user1.name,2,False)
+            print(self.user1.name+" wins! "+self.user1.name+" has reached the 5 points first!")
             self.user1.exit_game()
             self.user2.exit_game()
         elif self.user2.score==5:
-            self.MQTT_client.publish("STC/"+self.game_name+"/game_winner",user2.name,2,False)
-            print(user1.name+" wins! "+user1.name+" has reached the 5 points first!")
+            self.MQTT_client.publish("STC/"+self.game_name+"/game_winner",self.user2.name,2,False)
+            print(self.user1.name+" wins! "+self.user1.name+" has reached the 5 points first!")
             self.user1.exit_game()
             self.user2.exit_game()
         
